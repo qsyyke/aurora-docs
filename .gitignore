@@ -3,4 +3,3 @@
 **/.cache
 docs/.vuepress/dist
 **/.temp
-/deploy.sh
