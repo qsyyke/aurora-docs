@@ -569,6 +569,7 @@ module.exports = {
 
         //公告，是一个数组，支持图片，HTML
         message: [
+            'v1.13.0版本增加了两个说说页面，路径分别是/mood和/next-mood，看你自己喜欢哪个页面，在顶部导航栏中加入就行',
             '如果运行<label class="about-version">npm run build</label>命令报<a href="https://ooszy.cco.vin/img/blog-note/image-20220119200825560.png" target="_blank">此图</a>错误，请运行命令<label class="about-version">npm i mini-css-extract-plugin@2.4.7</label>安装低版本的npm i mini-css-extract-plugin插件',
             '<label class="about-version">使用注意</label>写文章的时候，最好设置手动设置一个文章发布时间，否则文章发布时间，会随着git commit的提交记录，每次都会变，手动设置时间<a href="/learn/frontmatter.html">请看</a>',
             '博客已加入<label class="about-version">浪漫气泡，音乐播放器，时间轴功能</label>，需要使用插件，点击顶部导航栏 ---> 插件进行配置',
