@@ -182,9 +182,13 @@ module.exports = {
                     text: '说说',
                     children:[
                         {
-                            text: 'chat',
+                            text: '说说1',
                             link: '/mood'
-                        }
+                        },
+                        {
+                            text: '说说2',
+                            link: '/next-mood'
+                        },
                     ],
                 },
                 {
