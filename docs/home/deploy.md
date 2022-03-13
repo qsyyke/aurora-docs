@@ -373,3 +373,159 @@ jobs:
 ![image-20211027000105500](https://ooszy.cco.vin/img/blog-note/image-20211027000105500.png?x-oss-process=style/pictureProcess1)
 
 ![image-20211027000121171](https://ooszy.cco.vin/img/blog-note/image-20211027000121171.png?x-oss-process=style/pictureProcess1)
+
+
+
+
+
+## Vercle
+
+除了使用上面方式进行托管你的博客外，我们还可以使用`vercel`进行部署，vercel和`github actions`很相似，都是通过将博客的所有必须文件（包括`package.json,docs`等）push到github的某个仓库仓库中，然后在vercel中创建一个项目，导入此仓库，之后的一切就交给`vercel`去做了
+
+
+
+并且vercel还能够自动部署，如果你commit了新的内容，vercel监测到有新的`commit`之后，便会重新运行`npm run build`命令进行部署，你只需要将新的修改，从本地`push`到github便可以了（比如新增一篇文章），而不需要像`github pages`，`服务器部署`那样，每次新增文章，都需要在本地运行`npm run build`，然后再将`docs/.vuepress/dist`目录中的所有文件，上传到github或者服务器中才能完成博客新内容的改变
+
+
+
+而且vercel还自带`cdn`加速，在速度上比使用通过`github pages`托管，通过`xxx.github.io/xxx`访问的速度快，除此以外，还可以自定义域名，可以使用我们自己的域名
+
+
+
+
+
+### 使用
+
+#### 需知
+
+在这一步默认你已经在本地搭建好博客了，并且能够正常访问，如果本地访问出错的话，在vercel部署会失败
+
+
+
+> 目前主题最新最新版是`v1.13.2`，我记得在`v1.13`版本以前，依赖没有锁住的时候，在vercel中部署会失败，如果你并没有使用最新版的主题或者博客目录中，不存在`npm-shrinkwrap.json`文件，那么你可以按照下面步骤锁定依赖版本号
+
+
+
+::: warning
+
+如果你博客目录中，存在`npm-shrinkwrap.json`文件(在`package.json`文件那里)，就不需要做下面这一步了，直接跳到[修改config.js](#修改config.js)位置便可以了
+
+
+
+如果你博客目录中，存在`npm-shrinkwrap.json`文件(在`package.json`文件那里)，就不需要做下面这一步了，直接跳到[修改config.js](#修改config.js)位置便可以了
+
+:::
+
+
+
+1. 确保你博客在本地能够正常运行
+
+    > 运行`npm run dev`后在浏览器中打开网页，能看到正常的画面，还有就是运行`npm run build`命令，能够成功
+
+2. 如果上一步都ok的话，那么在命令行窗口中，运行``npm shrinkwrap``命令（就是你运行npm run dev那个位置）
+
+    ![image-20220313211740939](https://ooszy.cco.vin/img/blog-note/image-20220313211740939.png)
+
+3. 然后就可以了
+
+
+
+### 修改config.js
+
+打开`docs/.vuepress/config.js`文件，在对应位置，添加下面内容
+
+![image-20220313212229538](https://ooszy.cco.vin/img/blog-note/image-20220313212229538.png)
+
+```js
+dest: "public",
+```
+
+> 此配置的作用就是，运行`npm run build`命令后，打包后的文件，将会放在`public`目录中，默认是`docs/.vuepress/dist`目录，此`public`目录和`docs`目录同级
+
+
+
+
+
+### push到github
+
+1. 新建一个`.gitignore`文件，将下面内容添加到此文件总
+
+    ```
+    /node_modules
+    /.idea
+    **/.cache
+    docs/.vuepress/dist
+    **/.temp
+    /public
+    ```
+
+2. 然后就将你博客（包含docs,pageage.json等文件）push到github某个仓库中，这一步自己解决
+
+
+
+![image-20220313212907442](/Users/aurora/Library/Application%20Support/typora-user-images/image-20220313212907442.png)
+
+
+
+### vercel
+
+#### 登录
+
+进入[Vercel](https://vercel.com/login)官网，点击使用github登录
+
+![image-20220313213046299](https://ooszy.cco.vin/img/blog-note/image-20220313213046299.png)
+
+![image-20220313214346948](https://ooszy.cco.vin/img/blog-note/image-20220313214346948.png)
+
+
+
+![image-20220313214549476](https://ooszy.cco.vin/img/blog-note/image-20220313214549476.png)
+
+![image-20220313214658063](https://ooszy.cco.vin/img/blog-note/image-20220313214658063.png)
+
+> 一定要设置上图这个，一定
+
+
+
+![image-20220313214748416](https://ooszy.cco.vin/img/blog-note/image-20220313214748416.png)
+
+然后就等待部署，差不多两分钟左右，如果部署失败的话，截图在群里问我
+
+
+
+![image-20220313214906771](https://ooszy.cco.vin/img/blog-note/image-20220313214906771.png)
+
+### 部署成功
+
+![image-20220313215046556](https://ooszy.cco.vin/img/blog-note/image-20220313215046556.png)
+
+出现这个画面，就表示你已经部署成功了，现在点击那个`go to dashboard`就可以进入到控制面板中
+
+![image-20220313215229071](https://ooszy.cco.vin/img/blog-note/image-20220313215229071.png)
+
+
+
+#### 简单使用
+
+![image-20220313215322998](https://ooszy.cco.vin/img/blog-note/image-20220313215322998.png)
+
+点击这里，可以重新部署
+
+![image-20220313215359234](https://ooszy.cco.vin/img/blog-note/image-20220313215359234.png)
+
+点击这里，可以设置自定义域名
+
+
+
+### 测试
+
+我最开始也说了，vercel可以监测到github中的commit记录，如果有新的commit记录的话，vercel就会自动重新部署，重新部署这一步不需要我们操作
+
+我们直接在github上，随便修改一下，然后点击提交
+
+![image-20220313215624690](https://ooszy.cco.vin/img/blog-note/image-20220313215624690.png)
+
+然后我们回到vercel中，便可以看到，已经有一个新的部署在执行了，等待部署成功，我们便可以在博客中刷新，看到我们刚刚修改的内容
+
+![image-20220313215754907](https://ooszy.cco.vin/img/blog-note/image-20220313215754907.png)
+
