@@ -15,6 +15,8 @@ stick: true
 
 1. 先删除博客项目中的`node_modules`文件夹(如果该文件夹存在的话)
 
+    ![image-20220319180528251](https://picture.xcye.xyz/image-20220319180528251.png)
+
 2. 运行`npm cache clear --force`命令
 
 3. 运行`npm config set registry https://registry.npmjs.org/`
@@ -24,6 +26,10 @@ stick: true
 4. 待上面3步执行完成之后，运行`npm i`命令安装依赖，正常的话，应该是没有问题了，如果有问题的话，在群里问我
 
 
+
+运行`npm i`或者`npm install`成功之后，界面和下图差不多，就可以直接运行`npm run dev`启动啦
+
+![image-20220319180901728](https://picture.xcye.xyz/image-20220319180901728.png)
 
 
 
