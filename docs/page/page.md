@@ -66,7 +66,7 @@ recommendNoTitle: "`╮(￣▽￣)╭`",
 
 ## 上一页，下一页
 
-![image-20211021085208081](https://ooszy.cco.vin/img/blog-note/image-20211021085208081.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211021085208081.png?x-oss-process=style/pictureProcess1)
 
 
 

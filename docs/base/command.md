@@ -14,9 +14,9 @@ date: 2021/12/10 20:51
 http://localhost:[post]
 ```
 
-![image-20211210223203670](https://ooszy.cco.vin/img/blog-note/image-20211210223203670.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210223203670.png?x-oss-process=style/pictureProcess1)
 
-![image-20211210223343459](https://ooszy.cco.vin/img/blog-note/image-20211210223343459.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210223343459.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -26,7 +26,7 @@ http://localhost:[post]
 
 网址的输入位置也别弄错了，这个是Google下的视图
 
-![image-20211210223619339](https://ooszy.cco.vin/img/blog-note/image-20211210223619339.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210223619339.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -36,9 +36,9 @@ http://localhost:[post]
 
 此命令会将博客程序，自动生成html文件，此html和css和js等静态文件的存储位置为`docs/.vuepress/dist`
 
-![image-20211210224142914](https://ooszy.cco.vin/img/blog-note/image-20211210224142914.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210224142914.png?x-oss-process=style/pictureProcess1)
 
-![image-20211210224213071](https://ooszy.cco.vin/img/blog-note/image-20211210224213071.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210224213071.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -50,17 +50,17 @@ node_modules
 
 此命令，就是安装依赖的，比如当
 
-![image-20211210224420012](https://ooszy.cco.vin/img/blog-note/image-20211210224420012.png?x-oss-process=style/pictureProcess1)、
+![](https://picture.xcye.xyz/image-20211210224420012.png?x-oss-process=style/pictureProcess1)、
 
 你如果现在运行`npm run dev`或者`npm run build`命令，那么会出现下面错误
 
-![image-20211210224527152](https://ooszy.cco.vin/img/blog-note/image-20211210224527152.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210224527152.png?x-oss-process=style/pictureProcess1)
 
 这是因为你还没有安装博客所需要的依赖，所以你需要运行`npm install`命令，此命令会自动下载`package.json`文件中，所有的依赖
 
-![image-20211210224713144](https://ooszy.cco.vin/img/blog-note/image-20211210224713144.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210224713144.png?x-oss-process=style/pictureProcess1)
 
-![image-20211210224845840](https://ooszy.cco.vin/img/blog-note/image-20211210224845840.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210224845840.png?x-oss-process=style/pictureProcess1)
 
 ::: tip
 

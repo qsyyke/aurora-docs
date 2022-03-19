@@ -30,13 +30,13 @@ date: 2021/10/20
 
 [Download | Node.js (nodejs.org)](https://nodejs.org/en/download/)
 
-![image-20211013112000619](https://ooszy.cco.vin/img/blog-note/image-20211013112000619.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211013112000619.png?x-oss-process=style/pictureProcess1)
 
 
 
 当你下载完成之后，你会得到如下文件
 
-![image-20211013112130043](https://ooszy.cco.vin/img/blog-note/image-20211013112130043.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211013112130043.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -44,19 +44,19 @@ date: 2021/10/20
 
 1. 双击点击安装
 
-   ![image-20211013112222351](https://ooszy.cco.vin/img/blog-note/image-20211013112222351.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013112222351.png?x-oss-process=style/pictureProcess1)
 
 
 
 2. 选择一个安装目录
 
-   ![image-20211013132648644](https://ooszy.cco.vin/img/blog-note/image-20211013132648644.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013132648644.png?x-oss-process=style/pictureProcess1)
 
    这里的安装目录可以随便选择，`但是一定要记得此路径，在后面需要使用到`
 
 3. 点击next
 
-   ![image-20211128222436169](https://ooszy.cco.vin/img/blog-note/image-20211128222436169.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211128222436169.png?x-oss-process=style/pictureProcess1)
 
    ::: warning
 
@@ -68,11 +68,11 @@ date: 2021/10/20
    
    这里还是点击next
    
-   ![image-20211013132911956](https://ooszy.cco.vin/img/blog-note/image-20211013132911956.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013132911956.png?x-oss-process=style/pictureProcess1)
    
-   ![image-20211013132930873](https://ooszy.cco.vin/img/blog-note/image-20211013132930873.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013132930873.png?x-oss-process=style/pictureProcess1)
    
-   ![image-20211013133002992](https://ooszy.cco.vin/img/blog-note/image-20211013133002992.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013133002992.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -92,13 +92,13 @@ date: 2021/10/20
 
 上一步安装完成之后，按住`win r`键，输入`cmd`
 
-![image-20211013133147151](https://ooszy.cco.vin/img/blog-note/image-20211013133147151.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211013133147151.png?x-oss-process=style/pictureProcess1)
 
 
 
 在面板中，输入`node -v`验证是否安装成功
 
-![image-20211013133235630](https://ooszy.cco.vin/img/blog-note/image-20211013133235630.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211013133235630.png?x-oss-process=style/pictureProcess1)
 
 当出现`v14.17.3`时，表示node已经安装成功了，此值也有可能不同，取决于你下的node版本
 
@@ -108,11 +108,11 @@ date: 2021/10/20
 
 1. 进入上一步安装node的目录中，你将看到如下文件
 
-   ![image-20211013133600368](https://ooszy.cco.vin/img/blog-note/image-20211013133600368.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013133600368.png?x-oss-process=style/pictureProcess1)
 
 2. 在此目录中，新建`node_cache`和`node_global`两个文件夹
 
-   ![image-20211013133711581](https://ooszy.cco.vin/img/blog-note/image-20211013133711581.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013133711581.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -141,21 +141,21 @@ date: 2021/10/20
 
 5. 设置环境变量
 
-   ![image-20211013134927339](https://ooszy.cco.vin/img/blog-note/image-20211013134927339.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013134927339.png?x-oss-process=style/pictureProcess1)
 
    
 
    
 
-   ![image-20211013134955551](https://ooszy.cco.vin/img/blog-note/image-20211013134955551.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013134955551.png?x-oss-process=style/pictureProcess1)
    
-   ![image-20211013135021613](https://ooszy.cco.vin/img/blog-note/image-20211013135021613.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211013135021613.png?x-oss-process=style/pictureProcess1)
    
    
 
-![image-20211128225456194](https://ooszy.cco.vin/img/blog-note/image-20211128225456194.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128225456194.png?x-oss-process=style/pictureProcess1)
 
-![image-20211128225939601](https://ooszy.cco.vin/img/blog-note/image-20211128225939601.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128225939601.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -171,7 +171,7 @@ date: 2021/10/20
 npm root-g
 ```
 
-![image-20211128230349713](https://ooszy.cco.vin/img/blog-note/image-20211128230349713.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128230349713.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -197,7 +197,7 @@ npm i vuepress-theme-cli -g
 
 待下载成功之后，在控制台中输入`aurora blog`，然后按回车
 
-![image-20211128231157929](https://ooszy.cco.vin/img/blog-note/image-20211128231157929.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128231157929.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -214,13 +214,13 @@ npm i vuepress-theme-cli -g
 
 
 
-![image-20211128231224969](https://ooszy.cco.vin/img/blog-note/image-20211128231224969.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128231224969.png?x-oss-process=style/pictureProcess1)
 
 
 
 进入到环境变量中，新建一个，输入[创建的node_global路径](#设置)
 
-![image-20211128231434520](https://ooszy.cco.vin/img/blog-note/image-20211128231434520.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128231434520.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -230,7 +230,7 @@ npm i vuepress-theme-cli -g
 
 正常情况，你输入`aurora blog`之后，便会下载一个模板
 
-![image-20211128231837831](https://ooszy.cco.vin/img/blog-note/image-20211128231837831.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211128231837831.png?x-oss-process=style/pictureProcess1)
 
 :::
 

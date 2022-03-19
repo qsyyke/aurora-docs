@@ -169,7 +169,7 @@ module.exports = {
 
 ::: details 点击查看图片
 
-![image-20211122080443328](https://ooszy.cco.vin/img/blog-note/image-20211122080443328.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122080443328.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -217,7 +217,7 @@ wave: {
 }
 ```
 
-![image-20211122081653795](https://ooszy.cco.vin/img/blog-note/image-20211122081653795.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122081653795.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -231,7 +231,7 @@ wave: {
 
 :::  details view picture
 
-![image-20211122081842634](https://ooszy.cco.vin/img/blog-note/image-20211122081842634.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122081842634.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -581,7 +581,7 @@ siteInformation: {
 
 ::: details 展示效果
 
-![image-20211111090308201](https://ooszy.cco.vin/img/blog-note/image-20211111090308201.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111090308201.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -672,7 +672,7 @@ message: [
 
 ::: details 展示效果
 
-![image-20211111090023642](https://ooszy.cco.vin/img/blog-note/image-20211111090023642.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111090023642.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -1798,7 +1798,7 @@ module.exports = {
 
 也就是这一坨
 
-![image-20210912210416750](https://ooszy.cco.vin/img/blog-note/image-20210912210416750.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210912210416750.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -1818,7 +1818,7 @@ module.exports = {
 
 > 字符串数组，圆角，字体控制面板，背景切换和开启毛玻璃效果图标，源码中，是通过数组顺序进行使用的，传入时，请注意顺序
 
-![image-20210912210648219](https://ooszy.cco.vin/img/blog-note/image-20210912210648219.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210912210648219.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -1851,7 +1851,7 @@ module.exports = {
 
 > tag页分割符
 
-![image-20210912212058062](https://ooszy.cco.vin/img/blog-note/image-20210912212058062.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210912212058062.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -2037,7 +2037,7 @@ adsenseLength: 3
 
 > 产品列表
 
-![image-20210912212759510](https://ooszy.cco.vin/img/blog-note/image-20210912212759510.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210912212759510.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -2385,7 +2385,7 @@ module.exports = {
 
 
 
-![image-20210912214810565](https://ooszy.cco.vin/img/blog-note/image-20210912214810565.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210912214810565.png?x-oss-process=style/pictureProcess1)
 
 
 

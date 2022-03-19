@@ -6,7 +6,7 @@ date: 2021/10/16
 
 最终效果
 
-![image-20211212151305342](https://ooszy.cco.vin/img/blog-note/image-20211212151305342.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211212151305342.png?x-oss-process=style/pictureProcess1)
 
 ::: tip
 
@@ -59,7 +59,7 @@ plugins: [
 
 ::: details 什么是对应位置?
 
-![image-20211212155421101](https://ooszy.cco.vin/img/blog-note/image-20211212155421101.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211212155421101.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -109,7 +109,7 @@ module.exports = {
 
 进入[这里](https://github.com/qsyyke/vscode-live2d-models)选择自己喜欢的模型
 
-![image-20211212155716585](https://ooszy.cco.vin/img/blog-note/image-20211212155716585.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211212155716585.png?x-oss-process=style/pictureProcess1)
 
 设置好之后，重新运行`npm run dev`即可
 

@@ -41,7 +41,7 @@ docs-
 
 ## 文章
 
-![image-20211208165052341](https://ooszy.cco.vin/img/blog-note/image-20211208165052341.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208165052341.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -67,5 +67,5 @@ vuepress中，主题配置文件存放在`docs/.vuepress/config.js`内，一定�
 
 
 
-![image-20211208165730551](https://ooszy.cco.vin/img/blog-note/image-20211208165730551.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208165730551.png?x-oss-process=style/pictureProcess1)
 

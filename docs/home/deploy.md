@@ -9,7 +9,7 @@ date: 2021/12/10 20:50
 
 在你部署到任意平台之前，请确保你已经运行`npm run build`命令了，此命令会自动将你博客编译成静态文件(`html,css,js,静态图片等`)，然后这些静态文件，会自动存放在`docs/.vuepress/dist`目录下，此目录是运行`npm run build`命令自动生成的，不需要你自己创建
 
-![image-20211210204953034](https://ooszy.cco.vin/img/blog-note/image-20211210204953034.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210204953034.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -19,43 +19,43 @@ date: 2021/12/10 20:50
 
 
 
-![image-20211116091011851](https://ooszy.cco.vin/img/blog-note/image-20211116091011851.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116091011851.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116091139240](https://ooszy.cco.vin/img/blog-note/image-20211116091139240.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116091139240.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116091358145](https://ooszy.cco.vin/img/blog-note/image-20211116091358145.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116091358145.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116091544820](https://ooszy.cco.vin/img/blog-note/image-20211116091544820.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116091544820.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116091648397](https://ooszy.cco.vin/img/blog-note/image-20211116091648397.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116091648397.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116091821466](https://ooszy.cco.vin/img/blog-note/image-20211116091821466.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116091821466.png?x-oss-process=style/pictureProcess1)
 
-![image-20211116092045376](https://ooszy.cco.vin/img/blog-note/image-20211116092045376.png?x-oss-process=style/pictureProcess1)
-
-
-
-![image-20211116092136984](https://ooszy.cco.vin/img/blog-note/image-20211116092136984.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116092045376.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116092213963](https://ooszy.cco.vin/img/blog-note/image-20211116092213963.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116092136984.png?x-oss-process=style/pictureProcess1)
+
+
+
+![](https://picture.xcye.xyz/image-20211116092213963.png?x-oss-process=style/pictureProcess1)
 
 
 
 
 
-![image-20211116092350381](https://ooszy.cco.vin/img/blog-note/image-20211116092350381.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116092350381.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -95,7 +95,7 @@ Github pages就是会自动将你的静态文件托管在github，然后可以�
 
 1. 进入github，新建一个仓库，用于托管`npm run build`打包之后的HTML文件
 
-    ![image-20210831133913906](http://ooszy.cco.vin/img/blog-note/image-20210831133913906.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210831133913906.png?x-oss-process=style/pictureProcess1)
 
     将`docs/.vuepress/dist`下的所有文件使用git命令push到该仓库中
 
@@ -107,9 +107,9 @@ Github pages就是会自动将你的静态文件托管在github，然后可以�
 
     进行第二步之前，表示你已经将dist目录中的文件，已push到此仓库中
 
-    ![image-20210831134813016](http://ooszy.cco.vin/img/blog-note/image-20210831134813016.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210831134813016.png?x-oss-process=style/pictureProcess1)
 
-    ![image-20210831134956617](http://ooszy.cco.vin/img/blog-note/image-20210831134956617.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210831134956617.png?x-oss-process=style/pictureProcess1)
 
     然后你就可以点击上面的那个连接，进行访问了，现在就已经将打包后的静态文件部署到github page
     
@@ -117,7 +117,7 @@ Github pages就是会自动将你的静态文件托管在github，然后可以�
     
     ::: details 哪个链接??
     
-    ![image-20211116103319349](https://ooszy.cco.vin/img/blog-note/image-20211116103319349.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20211116103319349.png?x-oss-process=style/pictureProcess1)
     
     :::
 
@@ -208,7 +208,7 @@ cd -
 
 ::: details 改变package.json文件之前?
 
-![image-20211116104440846](https://ooszy.cco.vin/img/blog-note/image-20211116104440846.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116104440846.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -216,7 +216,7 @@ cd -
 
 ::: details 改变package.json文件之后
 
-![image-20211116104605535](https://ooszy.cco.vin/img/blog-note/image-20211116104605535.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116104605535.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -234,7 +234,7 @@ cd -
 
 ::: details  错误信息
 
-![image-20211116105934737](https://ooszy.cco.vin/img/blog-note/image-20211116105934737.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116105934737.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -252,15 +252,15 @@ cd -
 
 2. 进入到仓库中的`Setting ---> Pages`
 
-    ![image-20210831135358064](https://ooszy.cco.vin/img/blog-note/image-20210831135358064.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210831135358064.png?x-oss-process=style/pictureProcess1)
 
 3. 如果出现下面这个，那就证明你没有为这个自定义域名，添加一个`CNAME`解析
 
-    ![image-20211116110931450](https://ooszy.cco.vin/img/blog-note/image-20211116110931450.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20211116110931450.png?x-oss-process=style/pictureProcess1)
 
     就表示，该`newblog.cco.vin`域名并没有添加一个CNAME解析，进入到域名解析处
 
-    ![image-20210831135743656](http://ooszy.cco.vin/img/blog-note/image-20210831135743656.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210831135743656.png?x-oss-process=style/pictureProcess1)
 
     对newblog添加`CNAME`记录，指向`<user>.github.io.`就可以了
 
@@ -272,7 +272,7 @@ cd -
 
 
 
-![image-20211116111632322](https://ooszy.cco.vin/img/blog-note/image-20211116111632322.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116111632322.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -286,25 +286,25 @@ cd -
 
 ### 获取token
 
-![image-20211026232416988](https://ooszy.cco.vin/img/blog-note/image-20211026232416988.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026232416988.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026232442304](https://ooszy.cco.vin/img/blog-note/image-20211026232442304.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026232442304.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026232532647](https://ooszy.cco.vin/img/blog-note/image-20211026232532647.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026232532647.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211026232831517](https://ooszy.cco.vin/img/blog-note/image-20211026232831517.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026232831517.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026232853598](https://ooszy.cco.vin/img/blog-note/image-20211026232853598.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026232853598.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026232948093](https://ooszy.cco.vin/img/blog-note/image-20211026232948093.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026232948093.png?x-oss-process=style/pictureProcess1)
 
 
 
 ### 上传到github
 
-![image-20211026233551543](https://ooszy.cco.vin/img/blog-note/image-20211026233551543.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026233551543.png?x-oss-process=style/pictureProcess1)
 
 ::: tip
 
@@ -314,13 +314,13 @@ cd -
 
 
 
-![image-20211026233853901](https://ooszy.cco.vin/img/blog-note/image-20211026233853901.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026233853901.png?x-oss-process=style/pictureProcess1)
 
 
 
 然后将下面的内容，复制替换下图中的内容
 
-![image-20211026234059132](https://ooszy.cco.vin/img/blog-note/image-20211026234059132.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026234059132.png?x-oss-process=style/pictureProcess1)
 
 ```yaml
 name: Build and Deploy
@@ -350,29 +350,29 @@ jobs:
 
 ### 设置Actions secrets
 
-![image-20211026234643018](https://ooszy.cco.vin/img/blog-note/image-20211026234643018.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026234643018.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026234710492](https://ooszy.cco.vin/img/blog-note/image-20211026234710492.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026234710492.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026234805318](https://ooszy.cco.vin/img/blog-note/image-20211026234805318.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026234805318.png?x-oss-process=style/pictureProcess1)
 
 
 
 然后你在本地或者github中，随便在`main`分支下，修改一个文件的内容，然后`git commit...`，`git push ...`后，你便可以看到已经开始运行了
 
-![image-20211026235130337](https://ooszy.cco.vin/img/blog-note/image-20211026235130337.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026235130337.png?x-oss-process=style/pictureProcess1)
 
-![image-20211026235518279](https://ooszy.cco.vin/img/blog-note/image-20211026235518279.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026235518279.png?x-oss-process=style/pictureProcess1)
 
 只有这个状态变成绿色之后，才便是部署成功，如果红色，你可以看一下报错信息
 
 你可以在`master`分支看一下，build之后的文件
 
-![image-20211026235929559](https://ooszy.cco.vin/img/blog-note/image-20211026235929559.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026235929559.png?x-oss-process=style/pictureProcess1)
 
-![image-20211027000105500](https://ooszy.cco.vin/img/blog-note/image-20211027000105500.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211027000105500.png?x-oss-process=style/pictureProcess1)
 
-![image-20211027000121171](https://ooszy.cco.vin/img/blog-note/image-20211027000121171.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211027000121171.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -424,7 +424,7 @@ jobs:
 
 2. 如果上一步都ok的话，那么在命令行窗口中，运行``npm shrinkwrap``命令（就是你运行npm run dev那个位置）
 
-    ![image-20220313211740939](https://ooszy.cco.vin/img/blog-note/image-20220313211740939.png)
+    ![](https://picture.xcye.xyz/image-20220313211740939.png)
 
 3. 然后就可以了
 
@@ -434,7 +434,7 @@ jobs:
 
 打开`docs/.vuepress/config.js`文件，在对应位置，添加下面内容
 
-![image-20220313212229538](https://ooszy.cco.vin/img/blog-note/image-20220313212229538.png)
+![](https://picture.xcye.xyz/image-20220313212229538.png)
 
 ```js
 dest: "public",
@@ -473,45 +473,45 @@ dest: "public",
 
 进入[Vercel](https://vercel.com/login)官网，点击使用github登录
 
-![image-20220313213046299](https://ooszy.cco.vin/img/blog-note/image-20220313213046299.png)
+![](https://picture.xcye.xyz/image-20220313213046299.png)
 
-![image-20220313214346948](https://ooszy.cco.vin/img/blog-note/image-20220313214346948.png)
+![](https://picture.xcye.xyz/image-20220313214346948.png)
 
 
 
-![image-20220313214549476](https://ooszy.cco.vin/img/blog-note/image-20220313214549476.png)
+![](https://picture.xcye.xyz/image-20220313214549476.png)
 
-![image-20220313214658063](https://ooszy.cco.vin/img/blog-note/image-20220313214658063.png)
+![](https://picture.xcye.xyz/image-20220313214658063.png)
 
 > 一定要设置上图这个，一定
 
 
 
-![image-20220313214748416](https://ooszy.cco.vin/img/blog-note/image-20220313214748416.png)
+![](https://picture.xcye.xyz/image-20220313214748416.png)
 
 然后就等待部署，差不多两分钟左右，如果部署失败的话，截图在群里问我
 
 
 
-![image-20220313214906771](https://ooszy.cco.vin/img/blog-note/image-20220313214906771.png)
+![](https://picture.xcye.xyz/image-20220313214906771.png)
 
 ### 部署成功
 
-![image-20220313215046556](https://ooszy.cco.vin/img/blog-note/image-20220313215046556.png)
+![](https://picture.xcye.xyz/image-20220313215046556.png)
 
 出现这个画面，就表示你已经部署成功了，现在点击那个`go to dashboard`就可以进入到控制面板中
 
-![image-20220313215229071](https://ooszy.cco.vin/img/blog-note/image-20220313215229071.png)
+![](https://picture.xcye.xyz/image-20220313215229071.png)
 
 
 
 #### 简单使用
 
-![image-20220313215322998](https://ooszy.cco.vin/img/blog-note/image-20220313215322998.png)
+![](https://picture.xcye.xyz/image-20220313215322998.png)
 
 点击这里，可以重新部署
 
-![image-20220313215359234](https://ooszy.cco.vin/img/blog-note/image-20220313215359234.png)
+![](https://picture.xcye.xyz/image-20220313215359234.png)
 
 点击这里，可以设置自定义域名
 
@@ -523,9 +523,9 @@ dest: "public",
 
 我们直接在github上，随便修改一下，然后点击提交
 
-![image-20220313215624690](https://ooszy.cco.vin/img/blog-note/image-20220313215624690.png)
+![](https://picture.xcye.xyz/image-20220313215624690.png)
 
 然后我们回到vercel中，便可以看到，已经有一个新的部署在执行了，等待部署成功，我们便可以在博客中刷新，看到我们刚刚修改的内容
 
-![image-20220313215754907](https://ooszy.cco.vin/img/blog-note/image-20220313215754907.png)
+![](https://picture.xcye.xyz/image-20220313215754907.png)
 

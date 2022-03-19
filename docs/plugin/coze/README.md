@@ -53,23 +53,23 @@ module.exports = {
 
 - 说说展示(`此效果在我主题中`)
 
-![image-20211108190928615](https://ooszy.cco.vin/img/blog-note/image-20211108190928615.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108190928615.png?x-oss-process=style/pictureProcess1)
 
 
 
 - 发布说说界面
 
-![image-20211108191227820](https://ooszy.cco.vin/img/blog-note/image-20211108191227820.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108191227820.png?x-oss-process=style/pictureProcess1)
 
 - 相册
 
-![image-20211110233924959](https://ooszy.cco.vin/img/blog-note/image-20211110233924959.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211110233924959.png?x-oss-process=style/pictureProcess1)
 
 - 提供的注册界面
 
   > 此界面是该插件自动提供的，并且插件也提供了一个没有任何样式的全局组件，你可以自己进行css编写
 
-![image-20211108191311008](https://ooszy.cco.vin/img/blog-note/image-20211108191311008.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108191311008.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -77,7 +77,7 @@ module.exports = {
 
   > 因为时间问题，目前说说评论暂未实现
 
-![image-20211108191613515](https://ooszy.cco.vin/img/blog-note/image-20211108191613515.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108191613515.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -97,17 +97,17 @@ module.exports = {
 
 该插件的说说存储于`leancloud`,进入[leanCloud国际版](https://console.leancloud.app/)(`一定要使用国际版，国内版我没测试过`)，你如果没有`leanCloud`账户的话，需要先创建一个有效账户，
 
-![image-20211108192136530](https://ooszy.cco.vin/img/blog-note/image-20211108192136530.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108192136530.png?x-oss-process=style/pictureProcess1)
 
-![image-20211108192241757](https://ooszy.cco.vin/img/blog-note/image-20211108192241757.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108192241757.png?x-oss-process=style/pictureProcess1)
 
-![image-20211108192330231](https://ooszy.cco.vin/img/blog-note/image-20211108192330231.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108192330231.png?x-oss-process=style/pictureProcess1)
 
-![image-20211108192405575](https://ooszy.cco.vin/img/blog-note/image-20211108192405575.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108192405575.png?x-oss-process=style/pictureProcess1)
 
-![image-20211108192519797](https://ooszy.cco.vin/img/blog-note/image-20211108192519797.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108192519797.png?x-oss-process=style/pictureProcess1)
 
-![image-20211108192639202](https://ooszy.cco.vin/img/blog-note/image-20211108192639202.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108192639202.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -125,17 +125,17 @@ module.exports = {
 
 现在访问`/aurora-register`路由，注册用户(`第一个注册的用户，默认为管理员`)，你将看到下面页面
 
-![image-20211108193700352](https://ooszy.cco.vin/img/blog-note/image-20211108193700352.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108193700352.png?x-oss-process=style/pictureProcess1)
 
 输入正确信息点击注册
 
-![image-20211108193812105](https://ooszy.cco.vin/img/blog-note/image-20211108193812105.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108193812105.png?x-oss-process=style/pictureProcess1)
 
 
 
 现在访问`/aurora-coze`页面
 
-![image-20211108193856216](https://ooszy.cco.vin/img/blog-note/image-20211108193856216.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108193856216.png?x-oss-process=style/pictureProcess1)
 
 
 

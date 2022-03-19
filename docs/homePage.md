@@ -59,7 +59,7 @@ vuepress框架，会自动将`docs`目录下的所有`.md`文件自动解析成`
 
 ### 1.git-commit
 
-![image-20211020235623101](https://ooszy.cco.vin/img/blog-note/image-20211020235623101.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211020235623101.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -101,7 +101,7 @@ homePageLazyLoadingImg: 'https://ooszy.cco.vin/img/blog-note/aurora-loading.gif?
 
 
 
-![image-20211021000532423](https://ooszy.cco.vin/img/blog-note/image-20211021000532423.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211021000532423.png?x-oss-process=style/pictureProcess1)
 
 
 

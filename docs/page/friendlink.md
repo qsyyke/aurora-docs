@@ -4,7 +4,7 @@ date: 2021/9/30
 
 # 友情链接页面
 
-![image-20211127201823860](https://ooszy.cco.vin/img/blog-note/image-20211127201823860.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127201823860.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -218,7 +218,7 @@ module.exports = {
 
 这是一个数组对象，里面的每一个对象，都是一个模块，
 
-![image-20211127202321519](https://ooszy.cco.vin/img/blog-note/image-20211127202321519.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127202321519.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -226,7 +226,7 @@ module.exports = {
 
 加入我们现在需要配置上图中的大佬这个模块，那么你可以像下面这样进行配置
 
-![image-20211127202706567](https://ooszy.cco.vin/img/blog-note/image-20211127202706567.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127202706567.png?x-oss-process=style/pictureProcess1)
 
 ```
 module.exports = {
@@ -267,7 +267,7 @@ module.exports = {
 
 ## 配置友联申请描述信息
 
-![image-20211127202740908](https://ooszy.cco.vin/img/blog-note/image-20211127202740908.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127202740908.png?x-oss-process=style/pictureProcess1)
 
 方框中的代码块，是主题自动加上的，你需要在`siteInformation`中进行简单的配置，便可以了
 
@@ -307,7 +307,7 @@ module.exports = {
 
 你配置之后效果会像下图这样
 
-![image-20211127203125111](https://ooszy.cco.vin/img/blog-note/image-20211127203125111.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127203125111.png?x-oss-process=style/pictureProcess1)
 
 并不像我上图中的那样，这是因为，上图那个是我自定义的样式，你们如果也需要这样的效果的话，可以看下面代码
 

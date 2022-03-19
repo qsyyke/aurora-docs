@@ -5,9 +5,9 @@ date: 2021/9/13
 
 该组件 是一个全局组件，位置`docs/.vuepress/theme/lib/client/components/global/Donate.vue`
 
-![image-20210831164021528](http://ooszy.cco.vin/img/blog-note/image-20210831164021528.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831164021528.png?x-oss-process=style/pictureProcess1)
 
-<img src="http://ooszy.cco.vin/img/blog-note/image-20210831164036678.png?x-oss-process=style/pictureProcess1" alt="image-20210831164036678" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20210831164036678.png?x-oss-process=style/pictureProcess1" alt="image-20210831164036678" style="zoom:50%;" />
 
 
 
@@ -15,7 +15,7 @@ date: 2021/9/13
 
 ### 扫码支付
 
-<img src="http://ooszy.cco.vin/img/blog-note/image-20210831164324595.png?x-oss-process=style/pictureProcess1" style="zoom:50%;" />
+<img src="https://picture.xcyz.xyz/image-20210831164324595.png?x-oss-process=style/pictureProcess1" style="zoom:50%;" />
 
 ```js
 module.exports = {
@@ -37,7 +37,7 @@ module.exports = {
 
 ### 商品
 
-<img src="http://ooszy.cco.vin/img/blog-note/image-20210831164526261.png?x-oss-process=style/pictureProcess1" alt="image-20210831164526261" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20210831164526261.png?x-oss-process=style/pictureProcess1" alt="image-20210831164526261" style="zoom:50%;" />
 
 ```yaml
 module.exports = {
@@ -74,7 +74,7 @@ module.exports = {
 
 ### 赞赏列表
 
-<img src="http://ooszy.cco.vin/img/blog-note/image-20210831164718349.png?x-oss-process=style/pictureProcess1" alt="image-20210831164718349" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20210831164718349.png?x-oss-process=style/pictureProcess1" alt="image-20210831164718349" style="zoom:50%;" />
 
 ```yaml
 module.exports = {
@@ -116,7 +116,7 @@ module.exports = {
 
 ### 在线支付
 
-![image-20210831164942581](http://ooszy.cco.vin/img/blog-note/image-20210831164942581.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831164942581.png?x-oss-process=style/pictureProcess1)
 
 ```js
 module.exports = {

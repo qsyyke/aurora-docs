@@ -14,7 +14,7 @@ date: 2021/9/24
 
 1. 修改首页文章列表的样式，最终展示如下
 
-   ![image-20211212160136329](https://ooszy.cco.vin/img/blog-note/image-20211212160136329.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211212160136329.png?x-oss-process=style/pictureProcess1)
 
 2. 统一全局颜色，对全局的hover激活的颜色和背景色等做了统一，你需要在`docs/.vuepress/styles/index.css`文件中，重新修改这些颜色变量，即可
 
@@ -54,7 +54,7 @@ date: 2021/9/24
    > sidebarDesc: '喜欢动漫，Coding目前是一名大三学生,CS专业,坐标西南边陲'
    > ```
 
-   ![image-20211212161157644](https://ooszy.cco.vin/img/blog-note/image-20211212161157644.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211212161157644.png?x-oss-process=style/pictureProcess1)
 
 4. 增加自定义文章置顶文字
 
@@ -84,7 +84,7 @@ date: 2021/9/24
 
    ....
 
-![image-20211208172515504](https://ooszy.cco.vin/img/blog-note/image-20211208172515504.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208172515504.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -123,7 +123,7 @@ date: 2021/9/24
 
    
 
-![image-20211208172618954](https://ooszy.cco.vin/img/blog-note/image-20211208172618954.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208172618954.png?x-oss-process=style/pictureProcess1)
 
 ## v1.6.2
 
@@ -217,7 +217,7 @@ date: 2021/9/24
 
   ::: details 查看
 
-  ![image-20211013103447635](https://ooszy.cco.vin/img/blog-note/image-20211013103447635.png?x-oss-process=style/pictureProcess1)
+  ![](https://picture.xcye.xyz/image-20211013103447635.png?x-oss-process=style/pictureProcess1)
 
   :::
 
@@ -225,9 +225,9 @@ date: 2021/9/24
 
   ::: details view
 
-  ​	![image-20211013104423679](https://ooszy.cco.vin/img/blog-note/image-20211013104423679.png?x-oss-process=style/pictureProcess1)
+  ​	![](https://picture.xcye.xyz/image-20211013104423679.png?x-oss-process=style/pictureProcess1)
 
-  ![image-20211013104450699](https://ooszy.cco.vin/img/blog-note/image-20211013104450699.png?x-oss-process=style/pictureProcess1)
+  ![](https://picture.xcye.xyz/image-20211013104450699.png?x-oss-process=style/pictureProcess1)
 
   :::
 
@@ -235,7 +235,7 @@ date: 2021/9/24
 
   ::: details view
 
-  ![image-20211013104220662](https://ooszy.cco.vin/img/blog-note/image-20211013104220662.png?x-oss-process=style/pictureProcess1)
+  ![](https://picture.xcye.xyz/image-20211013104220662.png?x-oss-process=style/pictureProcess1)
 
   :::
 
@@ -245,7 +245,7 @@ date: 2021/9/24
 
   ::: details view
 
-  ​	![image-20211013104857123](https://ooszy.cco.vin/img/blog-note/image-20211013104857123.png?x-oss-process=style/pictureProcess1)
+  ​	![](https://picture.xcye.xyz/image-20211013104857123.png?x-oss-process=style/pictureProcess1)
 
   :::
 

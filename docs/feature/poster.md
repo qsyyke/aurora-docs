@@ -7,9 +7,9 @@ tag: [海报,poster]
 
 # 海报分享配置
 
-![image-20210911105738192](https://ooszy.cco.vin/img/blog-note/image-20210911105738192.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210911105738192.png?x-oss-process=style/pictureProcess1)
 
-![image-20210911105852609](https://ooszy.cco.vin/img/blog-note/image-20210911105852609.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210911105852609.png?x-oss-process=style/pictureProcess1)
 
 > 主题默认在文章页面和心情页面加入了海报分享功能，你也可以在你想要的地方使用该组件，以注册为全局组件`<Poster>`
 
@@ -37,13 +37,13 @@ tag: [海报,poster]
 
 - 博客描述
 
-    ![image-20210911115155380](https://ooszy.cco.vin/img/blog-note/image-20210911115155380.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210911115155380.png?x-oss-process=style/pictureProcess1)
 
     此项需要配置两个值，一个前缀，一个后缀
 
 - 博客描述
 
-    ![image-20210911115301740](https://ooszy.cco.vin/img/blog-note/image-20210911115301740.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210911115301740.png?x-oss-process=style/pictureProcess1)
     
 - 海报顶部背景
 

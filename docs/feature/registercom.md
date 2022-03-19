@@ -18,13 +18,13 @@ date: 2021/9/17
 
 默认的内容如下
 
-<img src="https://ooszy.cco.vin/img/blog-note/image-20211021224708201.png?x-oss-process=style/pictureProcess1" alt="image-20211021224708201" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20211021224708201.png?x-oss-process=style/pictureProcess1" alt="image-20211021224708201" style="zoom:50%;" />
 
 
 
 或者你什么都不要，完全按照你想要的进行布局
 
-<img src="https://ooszy.cco.vin/img/blog-note/image-20211021224804290.png?x-oss-process=style/pictureProcess1" alt="image-20211021224804290" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20211021224804290.png?x-oss-process=style/pictureProcess1" alt="image-20211021224804290" style="zoom:50%;" />
 
 
 
@@ -140,7 +140,7 @@ layout: Aurora
 
 结果
 
-![image-20211021230635363](https://ooszy.cco.vin/img/blog-note/image-20211021230635363.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211021230635363.png?x-oss-process=style/pictureProcess1)
 
 
 

@@ -13,17 +13,17 @@ vuepress在`beta.28`版本以前，默认使用的打包工具是`webpack`，但
 
 ### **vite**
 
-![image-20211224081408044](https://ooszy.cco.vin/img/blog-note/image-20211224081408044.png)
+![](https://picture.xcye.xyz/image-20211224081408044.png)
 
 如果你运行`npm run dev`之后，会出现多个打开网址，那么这个就是使用`vite`作为打包工具，同时，你也可以运行`npm run build`命令，在控制台会有提示
 
-![image-20211224081606424](https://ooszy.cco.vin/img/blog-note/image-20211224081606424.png)
+![](https://picture.xcye.xyz/image-20211224081606424.png)
 
 
 
 ### **webpack**
 
-![image-20211224081735990](https://ooszy.cco.vin/img/blog-note/image-20211224081735990.png)
+![](https://picture.xcye.xyz/image-20211224081735990.png)
 
 如果你运行是上面这种，只出现一个网址，那么你使用的就是`webpack`作为打包工具，并且你可以通过打印的信息便可以看出
 
@@ -61,7 +61,7 @@ module.exports = {
 
 ::: details 还不会加?
 
-![image-20211224082501080](https://ooszy.cco.vin/img/blog-note/image-20211224082501080.png)
+![](https://picture.xcye.xyz/image-20211224082501080.png)
 
 :::
 

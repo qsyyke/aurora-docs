@@ -14,7 +14,7 @@ stick: true
 
 因为`vuepress`从`2.0.0-beta.29`版本开始，便将默认的打包工具从webpack修改为vite,为了不影响使用，请删除`node_module`文件夹，还需要删除`package-lock.json`文件
 
-![image-20220102221341040](https://ooszy.cco.vin/img/blog-note/image-20220102221341040.png)
+![](https://picture.xcye.xyz/image-20220102221341040.png)
 
 :::
 
@@ -38,7 +38,7 @@ npm i vuepress@2.0.0-beta.29 -f
 
 ::: details ps
 
-![image-20220102221619062](https://ooszy.cco.vin/img/blog-note/image-20220102221619062.png)
+![](https://picture.xcye.xyz/image-20220102221619062.png)
 
 你可以直接将上面这些，全部复制，然后直接在命令行窗口中，粘贴就行，不用一条一条的张贴
 
@@ -88,7 +88,7 @@ npm i vuepress-webpack@2.0.0-beta.29 -f
 bundler: '@vuepress/bundler-webpack',
 ```
 
-![image-20220102222804481](https://ooszy.cco.vin/img/blog-note/image-20220102222804481.png)
+![](https://picture.xcye.xyz/image-20220102222804481.png)
 
 
 
@@ -100,4 +100,4 @@ bundler: '@vuepress/bundler-webpack',
 
 如果还是报错的话，你看一下`package-lock.json`文件里面的`vuepress`版本是不是`2.0.0-beta.29`
 
-![image-20220102223156176](https://ooszy.cco.vin/img/blog-note/image-20220102223156176.png)
+![](https://picture.xcye.xyz/image-20220102223156176.png)

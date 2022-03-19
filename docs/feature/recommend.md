@@ -5,7 +5,7 @@ date: 2021/9/16
 
 此组件并不是全局组件，组件位置`docs/.vuepress/theme/lib/client/components/RecommendPage.vue`
 
-![image-20210831161503804](http://ooszy.cco.vin/img/blog-note/image-20210831161503804.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831161503804.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -52,7 +52,7 @@ module.exports = {
 
 其中`<BCenter>`组件是一个全局组件，其就是一个居中效果的，展示效果和下图差不多
 
-![image-20210831161059607](http://ooszy.cco.vin/img/blog-note/image-20210831161059607.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831161059607.png?x-oss-process=style/pictureProcess1)
 
 提供了很多插槽
 

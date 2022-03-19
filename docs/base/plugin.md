@@ -183,7 +183,7 @@ module.exports = {
 
 官方也提供了好几款插件，如果需要的话，请[自行配置](https://v2.vuepress.vuejs.org/zh/reference/plugin/search.html)
 
-![image-20211208170414756](https://ooszy.cco.vin/img/blog-note/image-20211208170414756.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208170414756.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -197,11 +197,11 @@ module.exports = {
 
 1. 定位到依赖安装(`在命令行窗口中，执行npm i xxx这个命令`)
 
-   ![image-20211212154319106](https://ooszy.cco.vin/img/blog-note/image-20211212154319106.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211212154319106.png?x-oss-process=style/pictureProcess1)
 
 2. 查看插件使用
 
-   ![image-20211212154444401](https://ooszy.cco.vin/img/blog-note/image-20211212154444401.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211212154444401.png?x-oss-process=style/pictureProcess1)
 
 3. 使用
 
@@ -253,7 +253,7 @@ module.exports = {
 
 > 我说的是加入到对应位置，并不是直接复制，然后粘贴到config.js文件里面，对应对应，对应位置
 
-![image-20211212154854325](https://ooszy.cco.vin/img/blog-note/image-20211212154854325.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211212154854325.png?x-oss-process=style/pictureProcess1)
 
 :::
 

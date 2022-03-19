@@ -16,7 +16,7 @@ date: 2021/10/5
 
 
 
-![image-20211122003904803](https://ooszy.cco.vin/img/blog-note/image-20211122003904803.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122003904803.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -94,7 +94,7 @@ module.exports = {
 excludes: ['/footer.html','message.html','/v1.3.0/']
 ```
 
-![image-20211122004613835](https://ooszy.cco.vin/img/blog-note/image-20211122004613835.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122004613835.png?x-oss-process=style/pictureProcess1)
 
 
 

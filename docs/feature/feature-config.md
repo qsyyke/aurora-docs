@@ -57,7 +57,7 @@ keyword: 关键词,关键词...
 
 ## 自定义面板
 
-![image-20210901135152962](http://ooszy.cco.vin/img/blog-note/image-20210901135152962.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901135152962.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -79,7 +79,7 @@ keyword: 关键词,关键词...
 
 #### 切换背景
 
-![image-20210901135603882](http://ooszy.cco.vin/img/blog-note/image-20210901135603882.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901135603882.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -87,11 +87,11 @@ keyword: 关键词,关键词...
 
 - 开启(默认是开启的)
 
-    ![image-20210901135749484](http://ooszy.cco.vin/img/blog-note/image-20210901135749484.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210901135749484.png?x-oss-process=style/pictureProcess1)
 
 - 关闭
 
-    ![image-20210901135846975](http://ooszy.cco.vin/img/blog-note/image-20210901135846975.png?x-oss-process=style/pictureProcess1)
+    ![](https://picture.xcye.xyz/image-20210901135846975.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -101,23 +101,23 @@ keyword: 关键词,关键词...
 
 #### 全局颜色
 
-![image-20210901140141856](http://ooszy.cco.vin/img/blog-note/image-20210901140141856.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140141856.png?x-oss-process=style/pictureProcess1)
 
-![image-20210901140158487](http://ooszy.cco.vin/img/blog-note/image-20210901140158487.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140158487.png?x-oss-process=style/pictureProcess1)
 
 
 
 #### 全局字体
 
-![image-20210901140240329](http://ooszy.cco.vin/img/blog-note/image-20210901140240329.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140240329.png?x-oss-process=style/pictureProcess1)
 
-![image-20210901140257315](http://ooszy.cco.vin/img/blog-note/image-20210901140257315.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140257315.png?x-oss-process=style/pictureProcess1)
 
 
 
 #### 设置显示文字
 
-![image-20210902181737898](http://ooszy.cco.vin/img/blog-note/image-20210902181737898.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210902181737898.png?x-oss-process=style/pictureProcess1)
 
 ```js
 showFont: 程
@@ -131,11 +131,11 @@ showFont: 程
 
 #### 全局圆角
 
-![image-20210901140433200](http://ooszy.cco.vin/img/blog-note/image-20210901140433200.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140433200.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20210901140509942](http://ooszy.cco.vin/img/blog-note/image-20210901140509942.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140509942.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -149,13 +149,13 @@ showFont: 程
 
 - 模糊度为0时
 
-![image-20210901140748473](http://ooszy.cco.vin/img/blog-note/image-20210901140748473.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140748473.png?x-oss-process=style/pictureProcess1)
 
 
 
 - 变化之后
 
-![image-20210901140842940](http://ooszy.cco.vin/img/blog-note/image-20210901140842940.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901140842940.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -165,13 +165,13 @@ showFont: 程
 
 - 0时
 
-![image-20210901141006270](http://ooszy.cco.vin/img/blog-note/image-20210901141006270.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901141006270.png?x-oss-process=style/pictureProcess1)
 
 
 
 - 变化后
 
-![image-20210901141047340](http://ooszy.cco.vin/img/blog-note/image-20210901141047340.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901141047340.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -226,7 +226,7 @@ module.exports = {
 
 `maxFontColorArr`是控制颜色和字体显示多少个，字体和颜色排列个数都会受此值影响，不推荐添加多个，控制在8个或者7个以内
 
-![image-20210901144515893](http://ooszy.cco.vin/img/blog-note/image-20210901144515893.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901144515893.png?x-oss-process=style/pictureProcess1)
 
 #### 默认开启毛玻璃效果
 
@@ -244,7 +244,7 @@ module.exports = {
 
 #### 滚轮
 
-![image-20210901144745455](http://ooszy.cco.vin/img/blog-note/image-20210901144745455.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210901144745455.png?x-oss-process=style/pictureProcess1)
 
 滚轮样式请自行修改，组件位置`docs/.vuepress/theme/lib/client/components/child/StyleMenu.vue`，对于其他浏览器，滚轮样式可能不美观，请自行解决
 

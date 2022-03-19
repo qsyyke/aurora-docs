@@ -246,7 +246,7 @@ module.exports = {
 
 ## logo
 
-![image-20210831141849241](http://ooszy.cco.vin/img/blog-note/image-20210831141849241.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831141849241.png?x-oss-process=style/pictureProcess1)
 
 导航栏logo可以在`config.js`文件中，进行设置，你可以将图片放在`docs/.vuepress/public`目录下，然后使用`/图片文件名`，也可以使用一个url
 
@@ -279,7 +279,7 @@ logoTitle: 'qsyyke'
 
 
 
-![image-20210831142236064](http://ooszy.cco.vin/img/blog-note/image-20210831142236064.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831142236064.png?x-oss-process=style/pictureProcess1)
 
 并且支持设置字体颜色，配置项为`logoColor`
 
@@ -293,7 +293,7 @@ logoColor: '#2c3e50'
 
 ## 中间头像
 
-![image-20210831142850834](http://ooszy.cco.vin/img/blog-note/image-20210831142850834.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831142850834.png?x-oss-process=style/pictureProcess1)
 
 此头像通过`heroImg`进行修改，并不是使用logo图片地址，默认图片使用<a href="https://ooszy.cco.vin/img/blog-public/avatar.jpg">default</a>
 
@@ -305,7 +305,7 @@ heroImg: 'https://ooszy.cco.vin/img/blog-public/avatar.jpg'
 
 ## 随机一言
 
-![image-20210831143353819](http://ooszy.cco.vin/img/blog-note/image-20210831143353819.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831143353819.png?x-oss-process=style/pictureProcess1)
 
 该随机一言打印效果使用<a href="https://github.com/pengqiangsheng/easy-typer-js">easy-typer-js</a>
 
@@ -325,7 +325,7 @@ heroImg: 'https://ooszy.cco.vin/img/blog-public/avatar.jpg'
 
 
 
-<img src="https://ooszy.cco.vin/img/blog-note/image-20211019211924609.png?x-oss-process=style/pictureProcess1" alt="image-20211019211924609" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20211019211924609.png?x-oss-process=style/pictureProcess1" alt="image-20211019211924609" style="zoom:50%;" />
 
 此篇文章的发布时间，你可以在[frontmatter](./learn/frontmatter.md)`date`
 
@@ -366,7 +366,7 @@ heroImg: 'https://ooszy.cco.vin/img/blog-public/avatar.jpg'
 
 ### 1.git-commit
 
-![image-20211020235623101](https://ooszy.cco.vin/img/blog-note/image-20211020235623101.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211020235623101.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -408,7 +408,7 @@ homePageLazyLoadingImg: 'https://ooszy.cco.vin/img/blog-note/aurora-loading.gif?
 
 
 
-![image-20211021000532423](https://ooszy.cco.vin/img/blog-note/image-20211021000532423.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211021000532423.png?x-oss-process=style/pictureProcess1)
 
 
 

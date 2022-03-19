@@ -5,7 +5,7 @@ title: 自定义代码块样式及解决C#高亮问题
 
 在本主题中，支持自定义代码块高亮样式，使用的是[highlightjs](https://highlightjs.org/)
 
-![image-20211217161621978](https://ooszy.cco.vin/img/blog-note/image-20211217161621978.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217161621978.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -23,17 +23,17 @@ npm install highlight.js
 
 
 
-![image-20211217162242259](https://ooszy.cco.vin/img/blog-note/image-20211217162242259.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217162242259.png?x-oss-process=style/pictureProcess1)
 
 当运行`npm install highlight.js`命令之后，会将highlight.js的所有文件放置在`node_modules`目录中，你需要在此目录中，找到一个文件夹为`highlight.js`的目录，点击进去
 
 > 如果你实在没有找到这个`highlight.js`文件夹，那么就是你没有运行`npm install highlight.js`这个命令，或者是没有在正确的地方运行
 
-![image-20211217162321915](https://ooszy.cco.vin/img/blog-note/image-20211217162321915.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217162321915.png?x-oss-process=style/pictureProcess1)
 
-![image-20211217162422523](https://ooszy.cco.vin/img/blog-note/image-20211217162422523.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217162422523.png?x-oss-process=style/pictureProcess1)
 
-![image-20211217162813364](https://ooszy.cco.vin/img/blog-note/image-20211217162813364.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217162813364.png?x-oss-process=style/pictureProcess1)
 
 
 ## 修改config.js
@@ -63,7 +63,7 @@ extendsMarkdown: (md) => {
 
 ::: details 必看
 
-![image-20211217163636994](https://ooszy.cco.vin/img/blog-note/image-20211217163636994.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217163636994.png?x-oss-process=style/pictureProcess1)
 
 :::
 
@@ -79,7 +79,7 @@ extendsMarkdown: (md) => {
 
 > 这里的css样式文件，就是你刚才在[第二步](#导入css)中，从`\node_modules\highlight.js\styles`内复制出来的文件，如果你的路径正确的话，那么你现在刷新网页，就会看到代码块样式发生改变了
 
-![image-20211217164321437](https://ooszy.cco.vin/img/blog-note/image-20211217164321437.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211217164321437.png?x-oss-process=style/pictureProcess1)
 
 
 

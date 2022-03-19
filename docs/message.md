@@ -6,7 +6,7 @@ date: 2021/10/19
 
 公告栏显示在侧边栏，显示效果如下
 
-![image-20211011160422278](https://ooszy.cco.vin/img/blog-note/image-20211011160422278.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211011160422278.png?x-oss-process=style/pictureProcess1)
 
 
 

@@ -8,7 +8,7 @@ date: 2021/10/18
 
 页脚 组件位置`docs/.vuepress/theme/lib/client/components/global/Footer.vue`
 
-![image-20210831151827669](http://ooszy.cco.vin/img/blog-note/image-20210831151827669.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831151827669.png?x-oss-process=style/pictureProcess1)
 
 
 

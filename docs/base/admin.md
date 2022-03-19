@@ -8,12 +8,12 @@ date: 2021/12/10 22:12
 
 安装`Win`和`X`键，然后选择管理员终端即可
 
-![image-20211210201040357](https://ooszy.cco.vin/img/blog-note/image-20211210201040357.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210201040357.png?x-oss-process=style/pictureProcess1)
 
 然后选择`Windows终端 (管理员)`即可
 
-![image-20211210201202994](https://ooszy.cco.vin/img/blog-note/image-20211210201202994.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210201202994.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211210201341588](https://ooszy.cco.vin/img/blog-note/image-20211210201341588.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210201341588.png?x-oss-process=style/pictureProcess1)

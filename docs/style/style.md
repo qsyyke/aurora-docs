@@ -18,7 +18,7 @@ date: 2021/10/17
 
 假设你想要修改置顶的图标
 
-![image-20211021003525455](https://ooszy.cco.vin/img/blog-note/image-20211021003525455.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211021003525455.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -36,7 +36,7 @@ date: 2021/10/17
   }
   ```
 
-  ![image-20211021004102208](https://ooszy.cco.vin/img/blog-note/image-20211021004102208.png?x-oss-process=style/pictureProcess1)
+  ![](https://picture.xcye.xyz/image-20211021004102208.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -54,15 +54,15 @@ date: 2021/10/17
 
 - 挑选自己喜欢的图标，然后选择添加到库
 
-  ![image-20211021075125699](https://ooszy.cco.vin/img/blog-note/image-20211021075125699.png?x-oss-process=style/pictureProcess1)
+  ![](https://picture.xcye.xyz/image-20211021075125699.png?x-oss-process=style/pictureProcess1)
 
 - 点击下载代码
 
-  <img src="https://ooszy.cco.vin/img/blog-note/image-20211021075328055.png?x-oss-process=style/pictureProcess1" alt="image-20211021075328055" style="zoom:50%;" />
+  <img src="https://picture.xcye.xyz/image-20211021075328055.png?x-oss-process=style/pictureProcess1" alt="image-20211021075328055" style="zoom:50%;" />
 
 - 解压之后，你会看到下面这些文件
 
-  ![image-20211021075421251](https://ooszy.cco.vin/img/blog-note/image-20211021075421251.png?x-oss-process=style/pictureProcess1)
+  ![](https://picture.xcye.xyz/image-20211021075421251.png?x-oss-process=style/pictureProcess1)
 
 - 将`iconfont.css`内的样式复制到`docs/.vuepress/styles/palette.css`文件中(`也可以复制到docs/.vuepress/styles/index.css`)中，`palette.css`中，主要是定义一些变量，你可以在`index.css`中，直接使用这些变量，然后修改字体的路径
 
@@ -114,7 +114,7 @@ date: 2021/10/17
 
 
 
-- <img src="https://ooszy.cco.vin/img/blog-note/image-20211021080627557.png?x-oss-process=style/pictureProcess1" alt="image-20211021080627557" style="zoom:50%;" />
+- <img src="https://picture.xcye.xyz/blog-note/image-20211021080627557.png?x-oss-process=style/pictureProcess1" alt="image-20211021080627557" style="zoom:50%;" />
 
 
 

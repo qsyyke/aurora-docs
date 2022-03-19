@@ -10,7 +10,7 @@ date: 2021/10/7
 
 该组件是展示说说的组件，也就是下面这个页面
 
-![image-20211108194504444](https://ooszy.cco.vin/img/blog-note/image-20211108194504444.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108194504444.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -46,7 +46,7 @@ methods: {
 
 对应位置如下
 
-![image-20211108202006814](https://ooszy.cco.vin/img/blog-note/image-20211108202006814.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108202006814.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -66,7 +66,7 @@ methods: {
 
 > 该组件展示效果
 
-![image-20211110234327520](https://ooszy.cco.vin/img/blog-note/image-20211110234327520.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211110234327520.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -142,7 +142,7 @@ methods: {
 
 
 
-![image-20211108203333154](https://ooszy.cco.vin/img/blog-note/image-20211108203333154.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108203333154.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -183,7 +183,7 @@ methods: {
 
 
 
-![image-20211108203909235](https://ooszy.cco.vin/img/blog-note/image-20211108203909235.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211108203909235.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -199,7 +199,7 @@ methods: {
 
 该组件是展示相册的一个全局组件，该组件的展示效果如下图
 
-![image-20211111000148676](https://ooszy.cco.vin/img/blog-note/image-20211111000148676.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111000148676.png?x-oss-process=style/pictureProcess1)
 
 该组件会展示所有用户发布在说说上，并且设置为显示的图片
 

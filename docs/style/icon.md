@@ -10,27 +10,27 @@ date: 2021/10/15
 
 2. 挑选自己喜欢的图标
 
-   ![image-20211111002835625](https://ooszy.cco.vin/img/blog-note/image-20211111002835625.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211111002835625.png?x-oss-process=style/pictureProcess1)
 
-![image-20211111002919678](https://ooszy.cco.vin/img/blog-note/image-20211111002919678.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111002919678.png?x-oss-process=style/pictureProcess1)
 
-![image-20211111003008017](https://ooszy.cco.vin/img/blog-note/image-20211111003008017.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111003008017.png?x-oss-process=style/pictureProcess1)
 
-![image-20211111003037996](https://ooszy.cco.vin/img/blog-note/image-20211111003037996.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111003037996.png?x-oss-process=style/pictureProcess1)
 
-![image-20211111003109493](https://ooszy.cco.vin/img/blog-note/image-20211111003109493.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111003109493.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211127211933492](https://ooszy.cco.vin/img/blog-note/image-20211127211933492.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127211933492.png?x-oss-process=style/pictureProcess1)
 
 当你设置了`fontFamily`之后，先点击下载到本地看看
 
-![image-20211111081548949](https://ooszy.cco.vin/img/blog-note/image-20211111081548949.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111081548949.png?x-oss-process=style/pictureProcess1)
 
-![image-20211127212253018](https://ooszy.cco.vin/img/blog-note/image-20211127212253018.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127212253018.png?x-oss-process=style/pictureProcess1)
 
-![image-20211111081748431](https://ooszy.cco.vin/img/blog-note/image-20211111081748431.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111081748431.png?x-oss-process=style/pictureProcess1)
 
 然后将此链接复制下来，进入到`config.js`文件中
 
@@ -53,15 +53,15 @@ module.exports = {
 
 设置好之后，便可以更改`navbar`的图标了
 
-![image-20211111082047409](https://ooszy.cco.vin/img/blog-note/image-20211111082047409.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111082047409.png?x-oss-process=style/pictureProcess1)
 
-![image-20211111082237278](https://ooszy.cco.vin/img/blog-note/image-20211111082237278.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111082237278.png?x-oss-process=style/pictureProcess1)
 
 
 
 然后启动，一定要注意，设置之后，一定需要重新启动，也就是重新运行`npm run dev`命令
 
-![image-20211111082400666](https://ooszy.cco.vin/img/blog-note/image-20211111082400666.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111082400666.png?x-oss-process=style/pictureProcess1)
 
 
 

@@ -6,7 +6,7 @@ date: 2021/9/29
 
 ## 社交
 
-![image-20211011163020328](https://ooszy.cco.vin/img/blog-note/image-20211011163020328.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211011163020328.png?x-oss-process=style/pictureProcess1)
 
 这个需要在`socials`进行设置，设置和首页一样
 
@@ -27,9 +27,9 @@ module.exports = {
 
 关于列表是一个一个的
 
-![image-20210831194455529](http://ooszy.cco.vin/img/blog-note/image-20210831194455529.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831194455529.png?x-oss-process=style/pictureProcess1)
 
-![image-20210831194509894](http://ooszy.cco.vin/img/blog-note/image-20210831194509894.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831194509894.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -273,7 +273,7 @@ module.exports = {
 
 ## 标签
 
-![image-20210831195631982](http://ooszy.cco.vin/img/blog-note/image-20210831195631982.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831195631982.png?x-oss-process=style/pictureProcess1)
 
 颜色不支持更改，随机，从`randomColor`中随机选择
 
@@ -281,7 +281,7 @@ module.exports = {
 
 ## bar
 
-![image-20210831195817530](http://ooszy.cco.vin/img/blog-note/image-20210831195817530.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831195817530.png?x-oss-process=style/pictureProcess1)
 
 
 

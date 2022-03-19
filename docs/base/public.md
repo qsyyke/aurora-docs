@@ -14,9 +14,9 @@ title: 什么是静态文件以及如何使用本地图片
 
 加入现在在该`public`目录下，存在如下文件及文件夹，目前博客启动的链接为`http://localhost:8080/`(你的不一定跟我一样)
 
-![image-20211208161259246](https://ooszy.cco.vin/img/blog-note/image-20211208161259246.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208161259246.png?x-oss-process=style/pictureProcess1)
 
-![image-20211208161655614](https://ooszy.cco.vin/img/blog-note/image-20211208161655614.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208161655614.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -50,7 +50,7 @@ title: 什么是静态文件以及如何使用本地图片
 
 如果对如何访问本地静态文件，还是不清楚，请自己在`docs/.vuepress/public`目录下，放几张图片，按照上面的方式自己访问，自己测试一下，容易理解
 
-![image-20211208163212971](https://ooszy.cco.vin/img/blog-note/image-20211208163212971.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208163212971.png?x-oss-process=style/pictureProcess1)
 
 
 

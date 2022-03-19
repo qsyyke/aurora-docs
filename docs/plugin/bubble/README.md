@@ -16,7 +16,7 @@ categories: [plugin]
 
 - 使用效果
 
-![image-20211122002556797](https://ooszy.cco.vin/img/blog-note/image-20211122002556797.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122002556797.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -73,7 +73,7 @@ module.exports = {
 
 当你在`config.js`文件中，使用该插件后，该插件会自动在便会自动显示
 
-![image-20211122003330518](https://ooszy.cco.vin/img/blog-note/image-20211122003330518.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211122003330518.png?x-oss-process=style/pictureProcess1)
 
 
 

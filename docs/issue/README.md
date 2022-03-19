@@ -64,7 +64,7 @@ title: 使用此博客主题，你一定要了解的内容
 
 
 
-![image-20211115224947764](https://ooszy.cco.vin/img/blog-note/image-20211115224947764.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211115224947764.png?x-oss-process=style/pictureProcess1)
 
 其中，除了自己自动创建的文件夹之外，全部都不要手动创建，所以你如果没有`docs,.vuepress,public,styles`等目录的话，是需要你自己创建(`因为运行npm run dev`就会生成.temp等文件夹，也就会默认创建`docs/.vuepress`目录，所以这种情况下，你就不要在手动创建`docs`和`.vuepress`目录了)
 
@@ -118,7 +118,7 @@ title: 使用此博客主题，你一定要了解的内容
 
 
 
-![image-20211115230757485](https://ooszy.cco.vin/img/blog-note/image-20211115230757485.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211115230757485.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -173,7 +173,7 @@ title: 使用此博客主题，你一定要了解的内容
 
 关于如何部署这个问题，你需要先了解vuepress是一个静态网站生成框架，当运行`npm run build`命令之后，vuepress会将`docs`目录下的所有`.md`文件(`不包括docs/.vuepress目录内的md文件`)自动解析成`.html`文件，并且`自动`放在`docs/.vuepress/dist`目录下，此目录下，所有的html和js等，便是你博客的所有页面和js等文件
 
-![image-20211115232524302](https://ooszy.cco.vin/img/blog-note/image-20211115232524302.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211115232524302.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -187,7 +187,7 @@ title: 使用此博客主题，你一定要了解的内容
 
    > [部署](https://aurora.xcye.xyz/home/deploy.html)，其实也就是将`docs/.vuepress/dist`目录下的所有文件，push到github的某个仓库，某个分支中，然后你就可以简单设置一下，就可以通过github给的一个免费域名(`https://<user>.github.io/<repo>`)直接访问你博客了
 
-   ![image-20211115233623578](https://ooszy.cco.vin/img/blog-note/image-20211115233623578.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211115233623578.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -227,21 +227,21 @@ title: 使用此博客主题，你一定要了解的内容
 
 
 
-![image-20211116084812735](https://ooszy.cco.vin/img/blog-note/image-20211116084812735.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116084812735.png?x-oss-process=style/pictureProcess1)
 
-![image-20211116084840153](https://ooszy.cco.vin/img/blog-note/image-20211116084840153.png?x-oss-process=style/pictureProcess1)
-
-
-
-![image-20211116085044115](https://ooszy.cco.vin/img/blog-note/image-20211116085044115.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116084840153.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116085230372](https://ooszy.cco.vin/img/blog-note/image-20211116085230372.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116085044115.png?x-oss-process=style/pictureProcess1)
 
 
 
-![image-20211116085338792](https://ooszy.cco.vin/img/blog-note/image-20211116085338792.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211116085230372.png?x-oss-process=style/pictureProcess1)
+
+
+
+![](https://picture.xcye.xyz/image-20211116085338792.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -321,7 +321,7 @@ theme: 'aurora',
 
 
 
-![image-20211026223646160](https://ooszy.cco.vin/img/blog-note/image-20211026223646160.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211026223646160.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -333,7 +333,7 @@ theme: 'aurora',
 
 因为文章的最后更新时间，是根据你`git commit`获取的，所以你需要在`package.json`同级目录下，初始化git仓库，或者在`docs`目录下，最后`git commit`之后就可以了
 
-![image-20211111092140467](https://ooszy.cco.vin/img/blog-note/image-20211111092140467.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211111092140467.png?x-oss-process=style/pictureProcess1)
 
 然后输入命令
 
@@ -390,9 +390,9 @@ layout: RegisterCom #为该md设置layout
 
 如果你更换主题之后，打开浏览器，报下面错误
 
-![image-20211012082239703](https://ooszy.cco.vin/img/blog-note/image-20211012082239703.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211012082239703.png?x-oss-process=style/pictureProcess1)
 
-![image-20211012082253643](https://ooszy.cco.vin/img/blog-note/image-20211012082253643.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211012082253643.png?x-oss-process=style/pictureProcess1)
 
 这个错误我暂时不知道是因为什么造成的，而且，当遇到这个错误，你在`config.js`将下面内容全部注释之后，使用默认主题，也会出现这个错误
 
@@ -458,7 +458,7 @@ module.exports = {
 
 ### 运行`npm run dev`之后，报下面错误<Badge type="tip" text="v1.3.2以下版本" vertical="top" />
 
-![image-20211012092541299](https://ooszy.cco.vin/img/blog-note/image-20211012092541299.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211012092541299.png?x-oss-process=style/pictureProcess1)
 
 这是因为你在`docs/.vuepress/config.js`内有添加上下面代码
 
@@ -487,11 +487,11 @@ module.exports = {
 
 修改测试
 
-![image-20211013102443617](https://ooszy.cco.vin/img/blog-note/image-20211013102443617.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211013102443617.png?x-oss-process=style/pictureProcess1)
 
 如果在这里没有显示该文章的更新时间，这是因为你`docs/`下没有`.git`文件夹，因为此功能是通过git的`commit`获取的
 
-![image-20211013102746980](https://ooszy.cco.vin/img/blog-note/image-20211013102746980.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211013102746980.png?x-oss-process=style/pictureProcess1)
 
 
 

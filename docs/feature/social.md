@@ -5,9 +5,9 @@ date: 2021/9/20
 # 社交
 
 
-![image-20211011151211549](https://ooszy.cco.vin/img/blog-note/image-20211011151211549.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211011151211549.png?x-oss-process=style/pictureProcess1)
 
-<img src="https://ooszy.cco.vin/img/blog-note/image-20211011151225054.png?x-oss-process=style/pictureProcess1" alt="image-20211011151225054" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20211011151225054.png?x-oss-process=style/pictureProcess1" alt="image-20211011151225054" style="zoom:50%;" />
 
 > 组件位置
 >
@@ -132,11 +132,11 @@ module.exports = {
 }
 ```
 
-<img src="https://ooszy.cco.vin/img/blog-note/image-20211011155752690.png?x-oss-process=style/pictureProcess1" alt="image-20211011155752690" style="zoom:50%;" />
+<img src="https://picture.xcye.xyz/image-20211011155752690.png?x-oss-process=style/pictureProcess1" alt="image-20211011155752690" style="zoom:50%;" />
 
 
 
-![image-20211011155915438](https://ooszy.cco.vin/img/blog-note/image-20211011155915438.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211011155915438.png?x-oss-process=style/pictureProcess1)
 
 ## 评论配置
 

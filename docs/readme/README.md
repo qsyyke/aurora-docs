@@ -14,7 +14,7 @@ categories: [教程]
 
 ![](https://img.shields.io/npm/v/vuepress-theme-aurora)![npm](https://img.shields.io/npm/dm/vuepress-theme-aurora)![](https://img.shields.io/github/stars/qsyyke/vuepress-theme-aurora?style=social)
 
-![image-20211208135404881](https://ooszy.cco.vin/img/blog-note/image-20211208135404881.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211208135404881.png?x-oss-process=style/pictureProcess1)
 
 ---
 
@@ -64,7 +64,7 @@ categories: [教程]
 
 > 这里推荐最好在管理员状态下，[如何进入?](./cmd.md)
 
-![image-20211127104249135](https://ooszy.cco.vin/img/blog-note/image-20211127104249135.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127104249135.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -91,11 +91,11 @@ aurora blog-demo
 
 :::
 
-![image-20211130123037624](https://ooszy.cco.vin/img/blog-note/image-20211130123037624.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211130123037624.png?x-oss-process=style/pictureProcess1)
 
 > 这个过程大概几秒，取决于你的网速，待安装成功之后，你会发现在当前目录下，多了一个目录
 
-![image-20211210202945519](https://ooszy.cco.vin/img/blog-note/image-20211210202945519.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211210202945519.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -111,7 +111,7 @@ aurora blog-demo
 
 如果你运行`npm install`命令报错，就像下面这种情况
 
-![image-20211211083929879](https://ooszy.cco.vin/img/blog-note/image-20211211083929879.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211211083929879.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -121,14 +121,13 @@ aurora blog-demo
 npm install --legacy-peer-deps
 ```
 
-![image-20211211084030624](https://ooszy.cco.vin/img/blog-note/image-20211211084030624.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211211084030624.png?x-oss-process=style/pictureProcess1)
 
 :::
 
 
 
-
-<video controls="" class="aurora-video" autoplay="" name="media"><source src="https://ooszy.cco.vin/theme-template/%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.mp4" type="video/mp4"></video>
+<video controls="" class="aurora-video" autoplay="" name="media"><source src="https://file.xcye.xyz/aurora-study.mp4" type="video/mp4"></video>
 
 
 
@@ -136,7 +135,7 @@ npm install --legacy-peer-deps
 
 > 运行成功之后，会出现一个地址，你只需要在浏览器中，输入这个地址，就可以看到下面的页面
 
-![image-20211010232918219](https://ooszy.cco.vin/img/blog-note/image-20211010232918219.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211010232918219.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -190,7 +189,7 @@ Vuepress基本知识
 
 | QQ                                                           | 主题交流群                                                   | 微信                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233620332.png?x-oss-process=style/pictureProcess1" style="zoom:33%;" /> | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233827133.png?x-oss-process=style/pictureProcess1" alt="image-20211024233827133" style="zoom:33%;" /> | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233735110.png?x-oss-process=style/pictureProcess1" alt="image-20211024233735110" style="zoom: 39%;" /> |
+| <img src="https://picture.xcye.xyz/image-20211024233620332.png?x-oss-process=style/pictureProcess1" style="zoom:33%;" /> | <img src="https://picture.xcye.xyz/image-20211024233827133.png?x-oss-process=style/pictureProcess1" alt="image-20211024233827133" style="zoom:33%;" /> | <img src="https://picture.xcye.xyz/image-20211024233735110.png?x-oss-process=style/pictureProcess1" alt="image-20211024233735110" style="zoom: 39%;" /> |
 
 ## 首页配置
 

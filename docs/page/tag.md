@@ -6,7 +6,7 @@ date: 2021/10/4
 
 ## 标签
 
-![image-20210831201338288](http://ooszy.cco.vin/img/blog-note/image-20210831201338288.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831201338288.png?x-oss-process=style/pictureProcess1)
 
 通过在每篇md文件上，添加`frontMatter`进行设置文章标签和类别，格式为
 
@@ -23,7 +23,7 @@ tag: [tag1,tag2,tag3] #设置标签
 
 ## 类别
 
-![image-20210831201350855](http://ooszy.cco.vin/img/blog-note/image-20210831201350855.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831201350855.png?x-oss-process=style/pictureProcess1)
 
 类别是通过对文章path路径，进行分割选取的，如果一个path路径为
 
@@ -54,7 +54,7 @@ excludePath: ['/footer.html','/v1.3.0/','/plugin/'],
 
 ## 分割符
 
-![image-20210831202338204](http://ooszy.cco.vin/img/blog-note/image-20210831202338204.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20210831202338204.png?x-oss-process=style/pictureProcess1)
 
 
 

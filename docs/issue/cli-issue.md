@@ -21,13 +21,13 @@ date: 2021/9/26
 
 1. 在cmd命令行窗口中，运行`npm root -g`查看全局安装路径
 
-   ![image-20211127110241162](https://ooszy.cco.vin/img/blog-note/image-20211127110241162.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211127110241162.png?x-oss-process=style/pictureProcess1)
 
 2. 进入
 
-   ![image-20211127110342527](https://ooszy.cco.vin/img/blog-note/image-20211127110342527.png?x-oss-process=style/pictureProcess1)
+   ![](https://picture.xcye.xyz/image-20211127110342527.png?x-oss-process=style/pictureProcess1)
 
-![image-20211127110725839](https://ooszy.cco.vin/img/blog-note/image-20211127110725839.png?x-oss-process=style/pictureProcess1)
+![](https://picture.xcye.xyz/image-20211127110725839.png?x-oss-process=style/pictureProcess1)
 
 
 
