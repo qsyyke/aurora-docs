@@ -168,7 +168,7 @@ date: 2021/10/20
 打开cmd面板，运行下面命令
 
 ```sh
-npm root-g
+npm root -g
 ```
 
 ![](https://picture.xcye.xyz/image-20211128230349713.png?x-oss-process=style/pictureProcess1)

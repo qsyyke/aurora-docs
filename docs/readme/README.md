@@ -127,7 +127,7 @@ npm install --legacy-peer-deps
 
 
 
-<video controls="" class="aurora-video" autoplay="" name="media"><source src="https://file.xcye.xyz/aurora-study.mp4" type="video/mp4"></video>
+<video controls="" class="aurora-video" autoplay="" name="media"><source src="http://file.xcye.xyz/aurora-study.mp4" type="video/mp4"></video>
 
 
 
