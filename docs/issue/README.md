@@ -191,7 +191,7 @@ title: 使用此博客主题，你一定要了解的内容
 
 
 
-3. 使用[vercel](https://vercel.com/guides/deploying-vuepress-to-vercel)，这个并不是部署静态资源，如果你需要使用vercel进行部署的话，你需要将你博客的索赔由于文件(`除node_modules`)都push到github，然后在vercel中导入你push到github的这个仓库，然后设置一下部署流程就行
+3. 使用[vercel](https://vercel.com/guides/deploying-vuepress-to-vercel)，这个并不是部署静态资源，如果你需要使用vercel进行部署的话，你需要将你博客的所有文件文件(`除node_modules`)都push到github，然后在vercel中导入你push到github的这个仓库，然后设置一下部署流程就行，可以看一下[教程](../home/deploy.md)
 
    > 记住，是所有除`node_modules`外的所有文件及文件夹，包括`docs`下的所有，`package.json`文件等等
 
