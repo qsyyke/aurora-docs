@@ -1,6 +1,7 @@
 const { navbar } = require("./public/navbar");
 module.exports = {
     themeConfig: {
+        homePageLazyLoadingImg: 'https://picture.xcye.xyz/image-20220328221012634.png',
         navbar: navbar,
         darkMode: false,
         repo: "https://github.com/qsyyke/vuepress-theme-aurora",
@@ -21,13 +22,13 @@ module.exports = {
         showFont: "程",
 
         //首页中间hero图片地址，默认为https://ooszy.cco.vin/img/blog-public/avatar.jpg
-        heroImg: 'https://ooszy.cco.vin/img/blog-note/Aurora.png',
+        heroImg: 'https://picture.xcye.xyz/Aurora.png',
 
         //logo图片地址，默认为https://ooszy.cco.vin/img/ico/yuan.png
-        logo: "https://ooszy.cco.vin/img/ico/yuan.png",
+        logo: "https://picture.xcye.xyz/avatar.jpg",
 
         //文章懒加载图片 仅限文章，首页文章占位图片并不是这个
-        lazyLoadingImg: "https://ooszy.cco.vin/img/blog-public/ljz.gif",
+        lazyLoadingImg: "https://picture.xcye.xyz/ljz.gif",
 
         //是否启用定制首页随机一言，默认未开启，使用随机一言 接口为https://international.v1.hitokoto.cn/?c=b&max_length=45
         customRandomSay: false,
@@ -60,7 +61,7 @@ module.exports = {
             {
                 aHref: "javascript:;",
                 //imgSrc: /assets/img/ico/wechat.svg,
-                showImgSrc: "https://ooszy.cco.vin/img/blog-public/wechat.jpg",
+                showImgSrc: "https://picture.xcye.xyz/blog-public/wechat.jpg",
                 isHome: true,
                 show: true,
                 symbol: '#icon-weixin',
@@ -419,14 +420,14 @@ module.exports = {
 
                         //站点描述
                         describe: "人生若只是初见,何事秋风悲画扇",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211106100103898.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211106100103898.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: "皮皮凛の小窝",
                         url: "https://owomoe.net/",
                         logo: "https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg",
                         describe: "永远相信美好的事情即将发生~",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211106100608395.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211106100608395.png?x-oss-process=style/pictureProcess1'
                     },
                 ]
             },
@@ -438,28 +439,28 @@ module.exports = {
                         url: 'https://colsrch.cn',
                         logo: 'https://cdn.jsdelivr.net/gh/Colsrch/images/Colsrch/avatar.jpg',
                         describe: '愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经',
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112172343574.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112172343574.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: '叫我詹躲躲',
                         describe: '岂能尽如人意，但求无愧于心',
                         logo: 'https://zhanhongzhu.top/avatar.jpg',
                         url: 'https://zhanhongzhu.top',
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112172438812.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112172438812.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: '神邸 - Zendee.cn',
                         describe: '加入神邸,精彩由你！',
                         logo: 'https://www.zendee.cn/favicon.ico',
                         url: 'https://www.zendee.cn',
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112172927025.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112172927025.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: "W4J1e's blog",
                         logo: 'https://cdn2.hin.cool/pic/my/dl3.png',
                         url: 'https://www.hin.cool',
                         describe: '总是偏爱不务正业',
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112172956300.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112172956300.png?x-oss-process=style/pictureProcess1'
                     },
                 ]
             },
@@ -471,42 +472,42 @@ module.exports = {
                         url: "https://blogwe.com/",
                         logo: "https://blogwe.com/favicon.ico",
                         describe: "博客大全-做最好的博客导航！",
-                        cover: "https://ooszy.cco.vin/img/blog-note/image-20211106100344348.png?x-oss-process=style/pictureProcess1"
+                        cover: "https://picture.xcye.xyz/image-20211106100344348.png?x-oss-process=style/pictureProcess1"
                     },
                     {
                         title: "Davinci的红茶馆",
                         url: "https://davincievans.top/",
                         logo: "https://cdn.jsdelivr.net/gh/DavinciEvans/Imgs-bed@master/gallery/avatar.jpg",
                         describe: "You are all stardust.",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211106100502873.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211106100502873.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: "月月月子喵",
                         url: "https://haozi.moe",
                         logo: "https://haozi.moe/css/images/logo_christmas.png",
                         describe: "可爱的月子酱",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112173329874.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112173329874.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: "I Am I",
                         url: "https://5ime.cn",
                         logo: "https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg",
                         describe: "永远相信美好的事情即将发生",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112173356961.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112173356961.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: "左眼会陪右眼哭の博客",
                         url: "http://qkongtao.cn/",
                         logo: "http://qiniu.qkongtao.cn/2020/12/d11-e1628358435552.png",
                         describe: "干嘛这么想不开，要在脸上贴个输字！",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112174944751.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/image-20211112174944751.png?x-oss-process=style/pictureProcess1'
                     },
                     {
                         title: "HuTao’s Blog",
                         url: "https://www.rulsm.com/",
                         logo: "https://www.rulsm.com/HuTao.png",
                         describe: "太阳出来我晒太阳！",
-                        cover: 'https://ooszy.cco.vin/img/blog-note/image-20211112191153938.png?x-oss-process=style/pictureProcess1'
+                        cover: 'https://picture.xcye.xyz/blog-note/image-20211112191153938.png?x-oss-process=style/pictureProcess1'
                     },
                 ]
             },
@@ -521,11 +522,11 @@ module.exports = {
             url: "https://aurora.xcye.xyz",
 
             //自己站点logo
-            logo: "https://ooszy.cco.vin/img/ico/yuan.png",
+            logo: "https://picture.xcye.xyz/avatar.jpg",
 
             //自己站点描述
             describe: "vuepress-theme-Aurora是一款简洁，美观，功能强大的静态主题",
-            cover: 'https://ooszy.cco.vin/img/blog-note/image-20211106100103898.png?x-oss-process=style/pictureProcess1',
+            cover: 'https://picture.xcye.xyz/image-20211106100103898.png?x-oss-process=style/pictureProcess1',
 
             //自己的头像
             contact: "如果你已经添加我站点，我很长时间还未添加，请联系我QQ: 2291308094,或者在说说处告诉我(先注册用户http://localhost:8080/aurora-register/，在发布说说/mood)，别评论",
@@ -576,7 +577,7 @@ module.exports = {
             '站点已开启说说功能体验,请先进行<a href="/aurora-register">注册</a>,然后在<a href="/mood">说说页面</a>点击点赞旁的那个编写，就可以发布了,或者直接使用体验账号密码登录: username: <label class="about-version">user</label>,&nbsp;&nbsp;password: <label class="about-version">user123456</label>',
             '你如果运行npm run dev，控制台报Error: spawn *\\node_modules\\esbuild\\esbuild.exe ENOENT，请先运行node ./node_modules/esbuild/install.js',
             "主题交流群: 681602026，欢迎各位大佬进群交流",
-            '<img src="https://ooszy.cco.vin/img/blog-note/image-20211015134525708.png"/>'
+            '<img src="https://picture.xcye.xyz/image-20211015134525708.png"/>'
         ],
 
         //文章底部最大推荐文章数 默认值为30
@@ -619,7 +620,7 @@ module.exports = {
                     name: "古茗",
 
                     //图片地址
-                    img: "https://ooszy.cco.vin/img/blog-note/image-20211112154421146.png?x-oss-process=style/pictureProcess1",
+                    img: "https://picture.xcye.xyz/image-20211112154421146.png?x-oss-process=style/pictureProcess1",
 
                     //价格
                     price: 10,
@@ -629,19 +630,19 @@ module.exports = {
                 },
                 {
                     name: "烧奶珍珠奶茶",
-                    img: "https://ooszy.cco.vin/img/blog-note/image-20211112154955370.png?x-oss-process=style/pictureProcess1",
+                    img: "https://picture.xcye.xyz/image-20211112154955370.png?x-oss-process=style/pictureProcess1",
                     price: 9,
                     prefix: "￥",
                 },
                 {
                     name: "酸奶",
-                    img: "https://ooszy.cco.vin/img/blog-note/image-20211112155844042.png?x-oss-process=style/pictureProcess1",
+                    img: "https://picture.xcye.xyz/image-20211112155844042.png?x-oss-process=style/pictureProcess1",
                     price: 4,
                     prefix: "￥",
                 },
                 {
                     name: "其他",
-                    img: "https://ooszy.cco.vin/img/blog-note/image-20211112160135405.png?x-oss-process=style/pictureProcess1",
+                    img: "https://picture.xcye.xyz/image-20211112160135405.png?x-oss-process=style/pictureProcess1",
                     price: '自定义',
                     prefix: "￥",
                 },
@@ -655,7 +656,7 @@ module.exports = {
                 {
                     name: "冰糖指蜂蜜",
                     msg: "",
-                    img: "https://ooszy.cco.vin/img/blog-note/image-20211112163454335.png?x-oss-process=style/pictureProcess1",
+                    img: "https://picture.xcye.xyz/image-20211112163454335.png?x-oss-process=style/pictureProcess1",
                     price: 10,
                     prefix: "￥",
                 },
@@ -773,7 +774,7 @@ module.exports = {
         sidebarCatalogLevel: 1,
 
         //首页文章列表封面图api接口
-        homePageImgApi: "https://picture.cco.vin/pic/rmimg",
+        homePageImgApi: "https://pic-tool.xcye.xyz/pic/rmimg",
 
         //手机端侧边栏横线分割文字，默认为Aurora
         mobileCutText: "Aurora",
@@ -784,7 +785,7 @@ module.exports = {
         //额外的功能，也就是样式控制面板上面那个，默认是关闭的
         showAddMood: false,
         //生成海报的顶部图片api接口，请注意，该接口需要直接返回图片地址，不能有跨域问题，设置之前，可以先使用ajax看是否存在跨域
-        postImgApi: 'https://picture.cco.vin/pic/rmimg?type=bing',
+        postImgApi: 'https://pic-tool.xcye.xyz/pic/rmimg?type=bing',
         sidebarAvatar: '/avatar.jpg',
 
         //v1.8.0新增配置项
