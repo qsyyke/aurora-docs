@@ -767,7 +767,7 @@ module.exports = {
         //最新文章数量，默认为6
         latestPageSize: 6,
 
-        //首页是否显示文章图片，默认关闭，如果显示的话，首页加载会非常慢 已弃用，从v1.3.2开始，直接移除首页文章内容图片
+        //首页是否显示文章图片，默认关闭，如果显示的话，首页加载会非常说的慢 已弃用，从v1.3.2开始，直接移除首页文章内容图片
         showHomePageImg: false,
 
         //文章侧边栏自动获取的层次 默认为1，也就是http://localhost:8080/config/feature/donate.html,只会自动生成feature目录下的文件
