@@ -878,7 +878,7 @@ module.exports = {
         * 菜，源码和页面中有很多不规范的地方，请各位大佬多多担待`(｀・ω・´)`
         * */
 
-        // heroLogo: "https://ooszy.cco.vin/img/blog-public/avatar.jpg", 在v1.3.2中被移除
+        // heroLogo: "https:/  /ooszy.cco.vin/img/blog-public/avatar.jpg", 在v1.3.2中被移除
         //faviconIco: https://ooszy.cco.vin/img/ico/yuan.png 已弃用
         //faviconIco: https://github.githubassets.com/favicons/favicon.svg 已弃用
         // showHomeMood: false,在v1.3.2中已移除
