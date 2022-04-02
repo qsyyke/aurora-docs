@@ -509,6 +509,13 @@ module.exports = {
                         describe: "太阳出来我晒太阳！",
                         cover: 'https://picture.xcye.xyz/blog-note/image-20211112191153938.png?x-oss-process=style/pictureProcess1'
                     },
+                    {
+                        title: "MuBaiの小站",//博客名称
+                        url: "https://ilmc-java.online:444/",//博客url
+                        logo: "https://ilmc-java.online:444/wp-content/uploads/2022/03/yjtp.png",//博客logo
+                        describe: "欢迎来到MuBai的小站，这是一只来自天津的高一学生",//博客描述
+                        cover: "https://ilmc-java.online:444/wp-content/uploads/2022/04/QQ图片20220402164132.png",//博客截屏
+                    },
                 ]
             },
     ],
