@@ -462,6 +462,13 @@ module.exports = {
                         describe: '总是偏爱不务正业',
                         cover: 'https://picture.xcye.xyz/image-20211112172956300.png?x-oss-process=style/pictureProcess1'
                     },
+                    {
+                        title: '今天没空哦',
+                        logo: 'https://zysg.xyz/wp-content/uploads/2022/04/1649768834-39c52b5716a5b80.jpg',
+                        url: 'https://zysg.xyz/',
+                        describe: '一位大佬（￣▽￣）',
+                        cover: 'https://picture.xcye.xyz/image-20220412220522290.png'
+                    }
                 ]
             },
             {
