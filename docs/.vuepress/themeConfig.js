@@ -449,6 +449,13 @@ module.exports = {
                         cover: 'https://picture.xcye.xyz/image-20211112172438812.png?x-oss-process=style/pictureProcess1'
                     },
                     {
+                        title: "小生听雨园",
+                        url: "http://blog.devilwst.top/",
+                        logo: "http://blog.devilwst.top/wp-content/uploads/2021/12/cropped-logo.png",
+                        describe: "Road To Growth",
+                        cover: "https://picture.xcye.xyz/image-20220518134122875.png"
+                    },
+                    {
                         title: "W4J1e's blog",
                         logo: 'https://cdn2.hin.cool/pic/my/dl3.png',
                         url: 'https://www.hin.cool',
@@ -474,6 +481,7 @@ module.exports = {
             {
                 title: '小伙伴',
                 links: [
+                    
                     {
                         title: "[ Blog We]",
                         url: "https://blogwe.com/",
