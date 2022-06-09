@@ -1,4 +1,5 @@
 const { themeConfig } = require("./themeConfig");
+const { path } = require("@vuepress/utils");
 module.exports = {
     bundler: '@vuepress/bundler-webpack',
     plugins: [
@@ -162,7 +163,8 @@ module.exports = {
             }
         ]
     ],
-    theme: 'aurora',
+    theme: path.resolve(__dirname, "../../Aurora-theme/lib/node/index.js"),
+    //theme: 'aurora',
     title: '一款简洁.美观.功能强大的vuepress主题',
     themeConfig
 }
