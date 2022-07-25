@@ -1,12 +1,12 @@
 ## 欢迎🎉🎉🎉🎉🎉
 
-非常感谢你使用Aurora主题，当你看到这个页面的时候，说明你已经使用[Aurora脚手架](https://github.com/vuepress-aurora/theme-cli)搭建好博客了，如果你还没有运行成功，那么请先看一下[这个视频](https://oosfzy.cco.vin/theme-template/%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85.mp4)，在你配置博客之前，请先阅读该[文章](https://aurora.xcye.xyz/issue/)，对你的博客配置很有帮助，一定要读
+非常感谢你使用Aurora主题，当你看到这个页面的时候，说明你已经使用[Aurora脚手架](https://github.com/vuepress-aurora/theme-cli)搭建好博客了，如果你还没有运行成功，那么请先看一下[这个视频](http://file.xcye.xyz/aurora-study.mp4)，在你配置博客之前，请先阅读该[文章](https://aurora.xcye.xyz/issue/)，对你的博客配置很有帮助，一定要读
 
 如果你在使用该主题的过程中，有任何的问题，都可以通过以下方式联系我
 
-| QQ                                                           | 主题交流群                                                   | 微信                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233620332.png?x-oss-process=style/pictureProcess1" style="zoom:33%;" /> | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233827133.png?x-oss-process=style/pictureProcess1" alt="image-20211024233827133" style="zoom:33%;" /> | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233735110.png?x-oss-process=style/pictureProcess1" alt="image-20211024233735110" style="zoom: 39%;" /> |
+| QQ                                                                                                                       | 主题交流群                                                                                                                                                  | 微信                                                                                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://picture.xcye.xyz/image-20211024233620332.png" style="zoom:33%;" /> | <img src="https://picture.xcye.xyz/image-20211024233827133.png?x-oss-process=style/pictureProcess1" alt="image-20211024233827133" style="zoom:33%;" /> | <img src="https://picture.xcye.xyz/image-20211024233735110.png?x-oss-process=style/pictureProcess1" alt="image-20211024233735110" style="zoom: 39%;" /> |
 
 
 
@@ -61,7 +61,7 @@
 
 运行环境需要依赖`node`，如果你未安装`node`，请先安装node，我安装的版本为`v14.17.3`
 
-> 安装node可查看[Node 安装](https://aurora.xcye.xyz/node.html)
+> 安装node可查看[Node安装](https://aurora.xcye.xyz/node.html)
 
 ### 安装CLI
 
@@ -83,7 +83,7 @@
 
 待脚手架cli安装成功之后，进入cmd中
 
-![image-20211127104249135](https://ooszy.cco.vin/img/blog-note/image-20211127104249135.png?x-oss-process=style/pictureProcess1)
+![image-20211127104249135](https://picture.xcye.xyz/image-20211127104249135.png)
 
 
 
@@ -106,7 +106,7 @@ aurora blog-demo
 
 
 
-![image-20211129213029591](https://ooszy.cco.vin/img/blog-note/image-20211129213029591.png?x-oss-process=style/pictureProcess1)
+![image-20211129213029591](https://picture.xcye.xyz/image-20211129213029591.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -114,7 +114,7 @@ aurora blog-demo
 
 
 
-![image-20211129213052601](https://ooszy.cco.vin/img/blog-note/image-20211129213052601.png?x-oss-process=style/pictureProcess1)
+![image-20211129213052601](https://picture.xcye.xyz/image-20211129213052601.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -126,17 +126,17 @@ aurora blog-demo
 >
 > 假如你电脑没有安装`yarn`，那么需要执行带有`npm`的命令，对于`yarn`的命令，就不需要执行
 >
-> 推荐看一下[这个视频](https://ooszy.cco.vin/theme-template/%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85.mp4)
+> 推荐看一下[这个视频](http://file.xcye.xyz/aurora-study.mp4)
 
 
 
-![image-20211130110845273](https://ooszy.cco.vin/img/blog-note/image-20211130110845273.png?x-oss-process=style/pictureProcess1)
+![image-20211130110845273](https://picture.xcye.xyz/image-20211130110845273.png?x-oss-process=style/pictureProcess1)
 
 待依赖安装成功之后，运行`npm run dev`，会出现一个地址，你只需要在浏览器中，输入这个地址，就可以看到下面的页面
 
 
 
-![image-20211010232918219](https://ooszy.cco.vin/img/blog-note/image-20211010232918219.png?x-oss-process=style/pictureProcess1)
+![image-20211010232918219](https://picture.xcye.xyz/image-20211010232918219.png?x-oss-process=style/pictureProcess1)
 
 
 

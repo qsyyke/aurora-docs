@@ -56,7 +56,7 @@ categories: [教程]
   npm i vuepress-theme-cli -g
   ```
 
-- [视频教程](https://ooszy.cco.vin/theme-template/%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.mp4)
+- [视频教程](http://file.xcye.xyz/aurora-study.mp4)
 
 ### 创建博客
 
