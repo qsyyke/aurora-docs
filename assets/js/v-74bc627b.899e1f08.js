@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8005],{2988:(t,e,a)=>{a.r(e),a.d(e,{data:()=>u});const u={key:"v-74bc627b",path:"/about/",title:"",lang:"en-US",frontmatter:{layout:"About",slug:"aurora-about"},excerpt:"",headers:[],git:{}}},9085:(t,e,a)=>{a.r(e),a.d(e,{default:()=>r});const u={},r=(0,a(3744).Z)(u,[["render",function(t,e){return null}]])}}]);

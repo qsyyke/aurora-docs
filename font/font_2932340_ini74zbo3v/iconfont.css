@@ -1,0 +1,187 @@
+@font-face {
+  font-family: "aurora-font"; /* Project id 2932340 */
+  src: url('iconfont.woff2?t=1637842925123') format('woff2'),
+       url('iconfont.woff?t=1637842925123') format('woff'),
+       url('iconfont.ttf?t=1637842925123') format('truetype');
+}
+
+.aurora-font {
+  font-family: "aurora-font" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.aurora-navbar-cancel:before {
+  content: "\e624";
+}
+
+.aurora-navbar-si-glyph-bookmark:before {
+  content: "\e602";
+}
+
+.aurora-navbar-si-glyph-botl-milk:before {
+  content: "\e603";
+}
+
+.aurora-navbar-si-glyph-billiard-ball:before {
+  content: "\e604";
+}
+
+.aurora-navbar-si-glyph-askterisk:before {
+  content: "\e605";
+}
+
+.aurora-navbar-si-glyph-contrast:before {
+  content: "\e635";
+}
+
+.aurora-navbar-si-glyph-dial-number-1:before {
+  content: "\e638";
+}
+
+.aurora-navbar-si-glyph-egg:before {
+  content: "\e642";
+}
+
+.aurora-navbar-si-glyph-feather:before {
+  content: "\e643";
+}
+
+.aurora-navbar-si-glyph-game-1:before {
+  content: "\e647";
+}
+
+.aurora-navbar-si-glyph-glass-water:before {
+  content: "\e648";
+}
+
+.aurora-navbar-si-glyph-global:before {
+  content: "\e649";
+}
+
+.aurora-navbar-si-glyph-chart-piece:before {
+  content: "\e65c";
+}
+
+.aurora-navbar-si-glyph-rss:before {
+  content: "\e66e";
+}
+
+.aurora-navbar-si-glyph-delicious-circle:before {
+  content: "\e685";
+}
+
+.aurora-navbar-si-glyph-emoticon:before {
+  content: "\e68f";
+}
+
+.aurora-navbar-si-glyph-disk-antenna:before {
+  content: "\e690";
+}
+
+.aurora-navbar-si-glyph-flower:before {
+  content: "\e691";
+}
+
+.aurora-navbar-si-glyph-helmet:before {
+  content: "\e696";
+}
+
+.aurora-navbar-si-glyph-electron:before {
+  content: "\e6a8";
+}
+
+.aurora-navbar-si-glyph-pin-location-1:before {
+  content: "\e6ad";
+}
+
+.aurora-navbar-si-glyph-load:before {
+  content: "\e6b5";
+}
+
+.aurora-navbar-kechengguanli:before {
+  content: "\e607";
+}
+
+.aurora-navbar-zhiwu:before {
+  content: "\e608";
+}
+
+.aurora-navbar-Star-Half-Selected:before {
+  content: "\e617";
+}
+
+.aurora-navbar-aichegujiabeifen7:before {
+  content: "\e609";
+}
+
+.aurora-navbar-yuyuezhongxin:before {
+  content: "\e613";
+}
+
+.aurora-navbar-shoulijindu-xuanzhong:before {
+  content: "\e61e";
+}
+
+.aurora-navbar-ico_box:before {
+  content: "\e60c";
+}
+
+.aurora-navbar-blaze-line:before {
+  content: "\e833";
+}
+
+.aurora-navbar-hua2:before {
+  content: "\e825";
+}
+
+.aurora-navbar-gengduogongneng:before {
+  content: "\e606";
+}
+
+.aurora-navbar-a-Arrow-Down:before {
+  content: "\e601";
+}
+
+.aurora-navbar-a-ziyuan107:before {
+  content: "\e8ef";
+}
+
+.aurora-navbar-a-ziyuan117:before {
+  content: "\e8f0";
+}
+
+.aurora-navbar-a-ziyuan157:before {
+  content: "\e8f3";
+}
+
+.aurora-navbar-igw-f-collection-data:before {
+  content: "\e61c";
+}
+
+.aurora-navbar-igw-f-moon:before {
+  content: "\e61d";
+}
+
+.aurora-navbar-international:before {
+  content: "\e60a";
+}
+
+.aurora-navbar-guide:before {
+  content: "\e60b";
+}
+
+.aurora-navbar-dashboard:before {
+  content: "\e610";
+}
+
+.aurora-navbar-other:before {
+  content: "\e614";
+}
+
+.aurora-navbar-weather:before {
+  content: "\e616";
+}
+

@@ -1,0 +1,1 @@
+module.exports={sites:[{title:"シャオチェン",url:"https://blog.cco.vin",logo:"https://ooszy.cco.vin/img/blog-public/avatar.jpg",describe:"I do not follow,i lives is always all you want",cover:"https://ooszy.cco.vin/img/blog-note/image-20211112215118520.png?x-oss-process=style/pictureProcess1"}]};
